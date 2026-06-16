@@ -1,0 +1,16 @@
+services:
+  - type: web
+    name: backhaul-api
+    env: node
+    plan: free
+    buildCommand: npm install && npm run build
+    startCommand: npm run migrate && npm start
+    envVars:
+      - key: PORT
+        value: 3000
+      - key: JWT_SECRET
+        generateValue: true
+      - key: TURSO_URL
+        sync: false
+      - key: TURSO_TOKEN
+        sync: false
