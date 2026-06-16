@@ -1,0 +1,1 @@
+const { execSync } = require('child_process'); require('fs').writeFileSync('/tmp/git-test.txt', execSync('cd /home/team/shared && git status --porcelain 2>&1', {encoding:'utf8',timeout:10000}));

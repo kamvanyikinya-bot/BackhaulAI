@@ -1,0 +1,14 @@
+{
+  "name": "backhaulai-production",
+  "version": "1.0.0",
+  "description": "BackhaulAI — Unified production server",
+  "main": "production-server.js",
+  "scripts": {
+    "start": "node production-server.js",
+    "build": "cd frontend && npm install && npm run build && cd ../backend && npm install && cd .."
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "http-proxy-middleware": "^3.0.3"
+  }
+}
