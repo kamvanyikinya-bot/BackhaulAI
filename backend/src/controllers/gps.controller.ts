@@ -15,7 +15,7 @@ export class GPSController {
   static async getLatest(req: Request, res: Response) {
     try {
       const { tripId } = req.params;
-      const result = await GPSService.getLatest(tripId);
+      const result = await GPSService.getLatest(tripId as string);
       if (!result) {
         return res.status(404).json({ message: 'No location data found' });
       }

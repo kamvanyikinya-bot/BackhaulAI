@@ -18,7 +18,7 @@ export class KYCController {
       res.status(201).json(result);
     } catch (error: any) {
       if (error instanceof z.ZodError) {
-        return res.status(400).json({ error: error.errors });
+        return res.status(400).json({ error: error.issues });
       }
       res.status(500).json({ error: error.message });
     }
