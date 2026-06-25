@@ -12,6 +12,7 @@ import kycRoutes from './routes/kyc.routes';
 import subscriptionRoutes from './routes/subscription.routes';
 import reputationRoutes from './routes/reputation.routes';
 import gpsRoutes from './routes/gps.routes';
+import eftRoutes from './routes/eft.routes';
 import { StatsController } from './controllers/stats.controller';
 import { authenticate } from './middleware/auth.middleware';
 
@@ -37,6 +38,7 @@ app.use('/api/kyc', kycRoutes);
 app.use('/api/subscriptions', subscriptionRoutes);
 app.use('/api/reputation', reputationRoutes);
 app.use('/api/gps', gpsRoutes);
+app.use('/api/eft', eftRoutes);
 app.use('/api/stats', authenticate, StatsController.getDashboardStats);
 app.use('/api', discoveryRoutes);
 

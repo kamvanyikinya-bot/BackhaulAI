@@ -34,7 +34,7 @@ export class SubscriptionService {
     return result[0];
   }
 
-  static async upgrade(userId: string, planId: string) {
+  static async upgrade(userId: string, planId: string, status: 'active' | 'pending' = 'active') {
     const id = uuidv4();
     const expiresAt = new Date();
     expiresAt.setMonth(expiresAt.getMonth() + 1); // 1 month from now
@@ -45,13 +45,13 @@ export class SubscriptionService {
       const sql = `
         UPDATE user_subscriptions 
         SET plan_id = ${DbService.sanitize(planId)},
-            status = 'active',
+            status = ${DbService.sanitize(status)},
             expires_at = ${DbService.sanitize(expiresAt.toISOString())},
             updated_at = CURRENT_TIMESTAMP
         WHERE user_id = ${DbService.sanitize(userId)}
       `;
       await DbService.query(sql);
-      return { id: current.id, plan_id: planId, status: 'active' };
+      return { id: current.id, plan_id: planId, status };
     } else {
       const sql = `
         INSERT INTO user_subscriptions (id, user_id, plan_id, status, expires_at)
@@ -59,12 +59,12 @@ export class SubscriptionService {
           ${DbService.sanitize(id)},
           ${DbService.sanitize(userId)},
           ${DbService.sanitize(planId)},
-          'active',
+          ${DbService.sanitize(status)},
           ${DbService.sanitize(expiresAt.toISOString())}
         )
       `;
       await DbService.query(sql);
-      return { id, plan_id: planId, status: 'active' };
+      return { id, plan_id: planId, status };
     }
   }
 
