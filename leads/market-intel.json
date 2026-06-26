@@ -1,0 +1,282 @@
+{
+  "generated_at": "2026-06-25T12:49:06.984508",
+  "top_5_most_profitable_corridors": [
+    {
+      "corridor": "Cape Town \u2194 Johannesburg",
+      "distance_km": 1400.0,
+      "avg_duration_h": 14,
+      "available_trucks": 20,
+      "available_loads": 20,
+      "supply_demand_ratio": 1.0,
+      "status": "balanced",
+      "avg_load_price_zar": 18000,
+      "estimated_daily_revenue_pool": 360000,
+      "opportunity_score": 180.0,
+      "recommended_action": "Maintain balance"
+    },
+    {
+      "corridor": "Port Elizabeth \u2194 Johannesburg",
+      "distance_km": 1050.0,
+      "avg_duration_h": 11,
+      "available_trucks": 23,
+      "available_loads": 45,
+      "supply_demand_ratio": 0.51,
+      "status": "undersupplied",
+      "avg_load_price_zar": 8000,
+      "estimated_daily_revenue_pool": 360000,
+      "opportunity_score": 156.5,
+      "recommended_action": "Recruit carriers"
+    },
+    {
+      "corridor": "Johannesburg \u2194 Durban",
+      "distance_km": 570.0,
+      "avg_duration_h": 5.5,
+      "available_trucks": 18,
+      "available_loads": 30,
+      "supply_demand_ratio": 0.6,
+      "status": "undersupplied",
+      "avg_load_price_zar": 8000,
+      "estimated_daily_revenue_pool": 240000,
+      "opportunity_score": 133.3,
+      "recommended_action": "Recruit carriers"
+    },
+    {
+      "corridor": "Cape Town \u2194 Durban",
+      "distance_km": 1650.0,
+      "avg_duration_h": 17,
+      "available_trucks": 31,
+      "available_loads": 48,
+      "supply_demand_ratio": 0.65,
+      "status": "undersupplied",
+      "avg_load_price_zar": 8000,
+      "estimated_daily_revenue_pool": 384000,
+      "opportunity_score": 123.9,
+      "recommended_action": "Recruit carriers"
+    },
+    {
+      "corridor": "Durban \u2194 Johannesburg",
+      "distance_km": 570.0,
+      "avg_duration_h": 5.5,
+      "available_trucks": 34,
+      "available_loads": 30,
+      "supply_demand_ratio": 1.13,
+      "status": "balanced",
+      "avg_load_price_zar": 8500,
+      "estimated_daily_revenue_pool": 255000,
+      "opportunity_score": 75.0,
+      "recommended_action": "Maintain balance"
+    }
+  ],
+  "all_corridors": [
+    {
+      "corridor": "Cape Town \u2194 Johannesburg",
+      "distance_km": 1400.0,
+      "avg_duration_h": 14,
+      "available_trucks": 20,
+      "available_loads": 20,
+      "supply_demand_ratio": 1.0,
+      "status": "balanced",
+      "avg_load_price_zar": 18000,
+      "estimated_daily_revenue_pool": 360000,
+      "opportunity_score": 180.0,
+      "recommended_action": "Maintain balance"
+    },
+    {
+      "corridor": "Port Elizabeth \u2194 Johannesburg",
+      "distance_km": 1050.0,
+      "avg_duration_h": 11,
+      "available_trucks": 23,
+      "available_loads": 45,
+      "supply_demand_ratio": 0.51,
+      "status": "undersupplied",
+      "avg_load_price_zar": 8000,
+      "estimated_daily_revenue_pool": 360000,
+      "opportunity_score": 156.5,
+      "recommended_action": "Recruit carriers"
+    },
+    {
+      "corridor": "Johannesburg \u2194 Durban",
+      "distance_km": 570.0,
+      "avg_duration_h": 5.5,
+      "available_trucks": 18,
+      "available_loads": 30,
+      "supply_demand_ratio": 0.6,
+      "status": "undersupplied",
+      "avg_load_price_zar": 8000,
+      "estimated_daily_revenue_pool": 240000,
+      "opportunity_score": 133.3,
+      "recommended_action": "Recruit carriers"
+    },
+    {
+      "corridor": "Cape Town \u2194 Durban",
+      "distance_km": 1650.0,
+      "avg_duration_h": 17,
+      "available_trucks": 31,
+      "available_loads": 48,
+      "supply_demand_ratio": 0.65,
+      "status": "undersupplied",
+      "avg_load_price_zar": 8000,
+      "estimated_daily_revenue_pool": 384000,
+      "opportunity_score": 123.9,
+      "recommended_action": "Recruit carriers"
+    },
+    {
+      "corridor": "Durban \u2194 Johannesburg",
+      "distance_km": 570.0,
+      "avg_duration_h": 5.5,
+      "available_trucks": 34,
+      "available_loads": 30,
+      "supply_demand_ratio": 1.13,
+      "status": "balanced",
+      "avg_load_price_zar": 8500,
+      "estimated_daily_revenue_pool": 255000,
+      "opportunity_score": 75.0,
+      "recommended_action": "Maintain balance"
+    },
+    {
+      "corridor": "Johannesburg \u2194 Cape Town",
+      "distance_km": 1400.0,
+      "avg_duration_h": 14,
+      "available_trucks": 46,
+      "available_loads": 19,
+      "supply_demand_ratio": 2.42,
+      "status": "oversupplied",
+      "avg_load_price_zar": 17500,
+      "estimated_daily_revenue_pool": 332500,
+      "opportunity_score": 72.3,
+      "recommended_action": "Recruit shippers"
+    },
+    {
+      "corridor": "Johannesburg \u2194 Nelspruit",
+      "distance_km": 330.0,
+      "avg_duration_h": 3.5,
+      "available_trucks": 42,
+      "available_loads": 28,
+      "supply_demand_ratio": 1.5,
+      "status": "balanced",
+      "avg_load_price_zar": 8000,
+      "estimated_daily_revenue_pool": 224000,
+      "opportunity_score": 53.3,
+      "recommended_action": "Maintain balance"
+    },
+    {
+      "corridor": "Nelspruit \u2194 Johannesburg",
+      "distance_km": 330.0,
+      "avg_duration_h": 3.5,
+      "available_trucks": 49,
+      "available_loads": 27,
+      "supply_demand_ratio": 1.81,
+      "status": "oversupplied",
+      "avg_load_price_zar": 8000,
+      "estimated_daily_revenue_pool": 216000,
+      "opportunity_score": 44.1,
+      "recommended_action": "Recruit shippers"
+    },
+    {
+      "corridor": "Durban \u2194 Cape Town",
+      "distance_km": 1650.0,
+      "avg_duration_h": 17,
+      "available_trucks": 50,
+      "available_loads": 25,
+      "supply_demand_ratio": 2.0,
+      "status": "oversupplied",
+      "avg_load_price_zar": 8000,
+      "estimated_daily_revenue_pool": 200000,
+      "opportunity_score": 40.0,
+      "recommended_action": "Recruit shippers"
+    },
+    {
+      "corridor": "Johannesburg \u2194 Port Elizabeth",
+      "distance_km": 1050.0,
+      "avg_duration_h": 11,
+      "available_trucks": 49,
+      "available_loads": 23,
+      "supply_demand_ratio": 2.13,
+      "status": "oversupplied",
+      "avg_load_price_zar": 8000,
+      "estimated_daily_revenue_pool": 184000,
+      "opportunity_score": 37.6,
+      "recommended_action": "Recruit shippers"
+    }
+  ],
+  "backhaul_opportunities": [
+    {
+      "from": "Johannesburg",
+      "to": "Durban",
+      "avg_return_price_zar": 8000,
+      "frequency": "very_high",
+      "opportunity": "Johannesburg \u2192 Durban (R8,000 avg)"
+    },
+    {
+      "from": "Johannesburg",
+      "to": "Cape Town",
+      "avg_return_price_zar": 17500,
+      "frequency": "high",
+      "opportunity": "Johannesburg \u2192 Cape Town (R17,500 avg)"
+    },
+    {
+      "from": "Johannesburg",
+      "to": "Port Elizabeth",
+      "avg_return_price_zar": 13500,
+      "frequency": "medium",
+      "opportunity": "Johannesburg \u2192 Port Elizabeth (R13,500 avg)"
+    },
+    {
+      "from": "Johannesburg",
+      "to": "Nelspruit",
+      "avg_return_price_zar": 5200,
+      "frequency": "high",
+      "opportunity": "Johannesburg \u2192 Nelspruit (R5,200 avg)"
+    },
+    {
+      "from": "Durban",
+      "to": "Johannesburg",
+      "avg_return_price_zar": 8500,
+      "frequency": "very_high",
+      "opportunity": "Durban \u2192 Johannesburg (R8,500 avg)"
+    },
+    {
+      "from": "Durban",
+      "to": "Cape Town",
+      "avg_return_price_zar": 21000,
+      "frequency": "medium",
+      "opportunity": "Durban \u2192 Cape Town (R21,000 avg)"
+    },
+    {
+      "from": "Cape Town",
+      "to": "Johannesburg",
+      "avg_return_price_zar": 18000,
+      "frequency": "very_high",
+      "opportunity": "Cape Town \u2192 Johannesburg (R18,000 avg)"
+    },
+    {
+      "from": "Cape Town",
+      "to": "Durban",
+      "avg_return_price_zar": 22000,
+      "frequency": "medium",
+      "opportunity": "Cape Town \u2192 Durban (R22,000 avg)"
+    },
+    {
+      "from": "Port Elizabeth",
+      "to": "Johannesburg",
+      "avg_return_price_zar": 14000,
+      "frequency": "high",
+      "opportunity": "Port Elizabeth \u2192 Johannesburg (R14,000 avg)"
+    },
+    {
+      "from": "Nelspruit",
+      "to": "Johannesburg",
+      "avg_return_price_zar": 5500,
+      "frequency": "very_high",
+      "opportunity": "Nelspruit \u2192 Johannesburg (R5,500 avg)"
+    }
+  ],
+  "summary": {
+    "total_corridors": 10,
+    "undersupplied_corridors": 3,
+    "oversupplied_corridors": 4,
+    "balanced_corridors": 3,
+    "highest_opportunity_corridor": "Cape Town \u2194 Johannesburg",
+    "acquisition_recommendation": "Focus B2B acquisition on Cape Town \u2194 Johannesburg corridor \u2014 it has the highest opportunity score (180.0) with 20 loads/day and avg price of R18,000."
+  }
+}

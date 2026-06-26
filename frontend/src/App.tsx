@@ -8,6 +8,8 @@ import { ReturnTripFinder } from './pages/ReturnTripFinder';
 import { AIDiscover } from './pages/AIDiscover';
 import { ExecutionCenter } from './pages/ExecutionCenter';
 import { Profile } from './pages/Profile';
+import { PricingPage } from './pages/PricingPage';
+import { WaitlistPage } from './pages/WaitlistPage';
 
 export default function App() {
   return <AuthProvider><BrowserRouter><Layout>
@@ -20,6 +22,8 @@ export default function App() {
       <Route path="/ai-discover" element={<AIDiscover />} />
       <Route path="/tracking" element={<ExecutionCenter />} />
       <Route path="/profile" element={<Profile />} />
+      <Route path="/pricing" element={<PricingPage />} />
+      <Route path="/waitlist" element={<WaitlistPage />} />
     </Routes>
   </Layout></BrowserRouter></AuthProvider>;
 }

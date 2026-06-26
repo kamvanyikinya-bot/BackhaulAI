@@ -379,10 +379,11 @@ def marketplace_corridors():
 _kyc_records: Dict[str, Dict] = {}  # user_id -> record
 _subscriptions: Dict[str, Dict] = {} # user_id -> subscription
 _subscription_plans = [
-    {"id": "free", "name": "Free", "price_zar": 0, "features": ["5 loads/month", "Basic matching", "Email support"], "billing_cycle": "monthly"},
-    {"id": "starter", "name": "Starter", "price_zar": 299, "features": ["50 loads/month", "Priority matching", "Route optimisation", "Email support"], "billing_cycle": "monthly"},
-    {"id": "pro", "name": "Professional", "price_zar": 999, "features": ["Unlimited loads", "Priority matching", "Route optimisation", "Pricing intelligence", "Analytics dashboard", "API access", "Phone support"], "billing_cycle": "monthly"},
-    {"id": "enterprise", "name": "Enterprise", "price_zar": 4999, "features": ["Unlimited everything", "White-label option", "Dedicated account manager", "Custom integrations", "SLA guarantee", "24/7 support"], "billing_cycle": "monthly"},
+    {"id": "starter", "name": "Starter", "price_zar": 3500, "features": ["50 loads/month", "Priority matching", "Route optimisation", "Email support"], "billing_cycle": "monthly"},
+    {"id": "pro", "name": "Pro", "price_zar": 9500, "features": ["Unlimited loads", "Priority matching", "Route optimisation", "Pricing intelligence", "Analytics dashboard", "API access", "Phone support"], "billing_cycle": "monthly"},
+    {"id": "business", "name": "Business", "price_zar": 20000, "features": ["Full analytics", "Priority matching", "Direct support", "Fleet management"], "billing_cycle": "monthly"},
+    {"id": "enterprise", "name": "Enterprise", "price_zar": 35000, "features": ["Unlimited everything", "White-label option", "Dedicated account manager", "Custom integrations", "SLA guarantee", "24/7 support"], "billing_cycle": "monthly"},
+    {"id": "enterprise_plus", "name": "Enterprise+", "price_zar": 65000, "features": ["Full network intelligence", "White-glove support", "Custom integrations", "Dedicated account manager"], "billing_cycle": "monthly"},
 ]
 _reputation_scores: Dict[str, Dict] = {}  # user_id -> score data
 _gps_tracking: Dict[str, Dict] = {}  # trip_id -> latest position
@@ -442,8 +443,8 @@ def sub_get_status(user_id: str):
     """Get subscription status for a user."""
     sub = _subscriptions.get(user_id)
     if not sub:
-        return {"user_id": user_id, "plan_id": "free", "plan_name": "Free", "active": True, "status": "active",
-                "billing_cycle": "monthly", "current_period_end": None, "features": _subscription_plans[0]["features"]}
+        return {"user_id": user_id, "plan_id": None, "plan_name": "None", "active": False, "status": "inactive",
+                "message": "No active subscription. Please upgrade to a paid tier."}
     return sub
 
 @app.post("/subscription/upgrade")
@@ -468,14 +469,14 @@ def sub_upgrade(user_id: str = Body(...), plan_id: str = Body(...), billing_cycl
 
 @app.post("/subscription/cancel")
 def sub_cancel(user_id: str = Body(..., embed=True)):
-    """Cancel a user's subscription (reverts to free at period end)."""
+    """Cancel a user's subscription (remains inactive after period end)."""
     if user_id not in _subscriptions:
-        return {"user_id": user_id, "status": "already_free", "message": "No active subscription to cancel"}
+        return {"user_id": user_id, "status": "no_active_subscription", "message": "No active subscription to cancel"}
     plan_name = _subscriptions[user_id].get("plan_name", "Unknown")
     _subscriptions[user_id]["status"] = "cancelled"
     _subscriptions[user_id]["auto_renew"] = False
     return {"user_id": user_id, "plan": plan_name, "status": "cancelled",
-            "message": f"Subscription cancelled. Current plan ({plan_name}) remains active until period end."}
+            "message": f"Subscription cancelled. Current plan ({plan_name}) remains active until period end and will not renew."}
 
 
 # ── 3. Reputation Scoring ────────────────────

@@ -21,11 +21,13 @@ CREATE TABLE IF NOT EXISTS subscription_plans (
 );
 
 -- Seed subscription plans
-INSERT OR IGNORE INTO subscription_plans (id, name, price, features) VALUES 
-('free', 'Free', 0, '["Basic matching", "Community support"]'),
-('starter', 'Starter', 299, '["Priority matching", "Basic analytics", "Email support"]'),
-('pro', 'Pro', 999, '["Advanced route optimization", "Priority matching", "Direct support"]'),
-('enterprise', 'Enterprise', 4999, '["Full network intelligence", "White-glove support", "Custom integrations"]');
+DELETE FROM subscription_plans;
+INSERT INTO subscription_plans (id, name, price, features) VALUES 
+('starter', 'Starter', 3500, '["Priority matching", "Basic analytics", "Email support"]'),
+('pro', 'Pro', 9500, '["Advanced route optimization", "Priority matching", "Direct support"]'),
+('business', 'Business', 20000, '["Full analytics", "Priority matching", "Direct support", "Fleet management"]'),
+('enterprise', 'Enterprise', 35000, '["Full network intelligence", "White-glove support", "Custom integrations"]'),
+('enterprise_plus', 'Enterprise+', 65000, '["Full network intelligence", "White-glove support", "Custom integrations", "Dedicated account manager"]');
 
 -- Re-implement user_subscriptions to link to plans
 DROP TABLE IF EXISTS subscriptions;

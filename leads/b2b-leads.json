@@ -1,0 +1,832 @@
+{
+  "generated_at": "2026-06-25T12:49:06.982446",
+  "total_leads": 50,
+  "leads": [
+    {
+      "company": "Imperial Logistics",
+      "city": "Johannesburg",
+      "region": "Gauteng",
+      "type": "3PL",
+      "fleet_size_estimate": 500,
+      "estimated_empty_mile_pct": 31.4,
+      "inefficiency_score": 94.2,
+      "annual_empty_mile_cost_zar": 76853168,
+      "active_corridors": [
+        "JHB-DBN",
+        "JHB-CPT"
+      ],
+      "priority": "critical",
+      "outreach_message": "Hi Imperial Logistics team,\n\nWe noticed that at 31% empty miles across 500+ vehicles on the JHB-DBN, JHB-CPT corridor, you could be losing R76,853,168/year in wasted fuel and driver time.\n\nBackhaulAI eliminates empty return trips by matching your trucks with guaranteed return loads the moment they deliver. Our AI finds backhaul opportunities on the JHB \u2194 DBN \u2194 JHB \u2194 CPT corridor with 85% match accuracy.\n\nOther logistics companies our size save R46,111,900/year \u2014 about 60% of their empty-mile cost.\n\nWould you be open to a 15-minute ROI analysis call? We'll show you exactly how much your fleet could save on your busiest routes.",
+      "recommended_channel": "LinkedIn DM"
+    },
+    {
+      "company": "DSV South Africa",
+      "city": "Johannesburg",
+      "region": "Gauteng",
+      "type": "3PL",
+      "fleet_size_estimate": 400,
+      "estimated_empty_mile_pct": 30.9,
+      "inefficiency_score": 77.2,
+      "annual_empty_mile_cost_zar": 60500179,
+      "active_corridors": [
+        "JHB-DBN",
+        "JHB-CPT"
+      ],
+      "priority": "critical",
+      "outreach_message": "Hi DSV South Africa team,\n\nWe noticed that at 30% empty miles across 400+ vehicles on the JHB-DBN, JHB-CPT corridor, you could be losing R60,500,179/year in wasted fuel and driver time.\n\nBackhaulAI eliminates empty return trips by matching your trucks with guaranteed return loads the moment they deliver. Our AI finds backhaul opportunities on the JHB \u2194 DBN \u2194 JHB \u2194 CPT corridor with 85% match accuracy.\n\nOther logistics companies our size save R36,300,107/year \u2014 about 60% of their empty-mile cost.\n\nWould you be open to a 15-minute ROI analysis call? We'll show you exactly how much your fleet could save on your busiest routes.",
+      "recommended_channel": "LinkedIn DM"
+    },
+    {
+      "company": "Barloworld Logistics",
+      "city": "Johannesburg",
+      "region": "Gauteng",
+      "type": "3PL",
+      "fleet_size_estimate": 350,
+      "estimated_empty_mile_pct": 33.1,
+      "inefficiency_score": 74.4,
+      "annual_empty_mile_cost_zar": 56670950,
+      "active_corridors": [
+        "JHB-DBN",
+        "JHB-CPT",
+        "JHB-PLZ"
+      ],
+      "priority": "critical",
+      "outreach_message": "Hi Barloworld Logistics team,\n\nWe noticed that at 33% empty miles across 350+ vehicles on the JHB-DBN, JHB-CPT, JHB-PLZ corridor, you could be losing R56,670,950/year in wasted fuel and driver time.\n\nBackhaulAI eliminates empty return trips by matching your trucks with guaranteed return loads the moment they deliver. Our AI finds backhaul opportunities on the JHB \u2194 DBN \u2194 JHB \u2194 CPT \u2194 JHB \u2194 PLZ corridor with 85% match accuracy.\n\nOther logistics companies our size save R34,002,570/year \u2014 about 60% of their empty-mile cost.\n\nWould you be open to a 15-minute ROI analysis call? We'll show you exactly how much your fleet could save on your busiest routes.",
+      "recommended_channel": "LinkedIn DM"
+    },
+    {
+      "company": "Bidvest Freight",
+      "city": "Johannesburg",
+      "region": "Gauteng",
+      "type": "3PL",
+      "fleet_size_estimate": 300,
+      "estimated_empty_mile_pct": 27.8,
+      "inefficiency_score": 55.5,
+      "annual_empty_mile_cost_zar": 40759631,
+      "active_corridors": [
+        "JHB-DBN",
+        "JHB-PLZ"
+      ],
+      "priority": "critical",
+      "outreach_message": "Hi Bidvest Freight team,\n\nWe noticed that at 27% empty miles across 300+ vehicles on the JHB-DBN, JHB-PLZ corridor, you could be losing R40,759,631/year in wasted fuel and driver time.\n\nBackhaulAI eliminates empty return trips by matching your trucks with guaranteed return loads the moment they deliver. Our AI finds backhaul opportunities on the JHB \u2194 DBN \u2194 JHB \u2194 PLZ corridor with 85% match accuracy.\n\nOther logistics companies our size save R24,455,778/year \u2014 about 60% of their empty-mile cost.\n\nWould you be open to a 15-minute ROI analysis call? We'll show you exactly how much your fleet could save on your busiest routes.",
+      "recommended_channel": "LinkedIn DM"
+    },
+    {
+      "company": "Onelogix Group",
+      "city": "Johannesburg",
+      "region": "Gauteng",
+      "type": "3PL",
+      "fleet_size_estimate": 250,
+      "estimated_empty_mile_pct": 27.2,
+      "inefficiency_score": 47.6,
+      "annual_empty_mile_cost_zar": 33298193,
+      "active_corridors": [
+        "JHB-DBN",
+        "JHB-CPT",
+        "JHB-PLZ"
+      ],
+      "priority": "high",
+      "outreach_message": "Hi Onelogix Group team,\n\nWe noticed that at 27% empty miles across 250+ vehicles on the JHB-DBN, JHB-CPT, JHB-PLZ corridor, you could be losing R33,298,193/year in wasted fuel and driver time.\n\nBackhaulAI eliminates empty return trips by matching your trucks with guaranteed return loads the moment they deliver. Our AI finds backhaul opportunities on the JHB \u2194 DBN \u2194 JHB \u2194 CPT \u2194 JHB \u2194 PLZ corridor with 85% match accuracy.\n\nOther logistics companies our size save R19,978,915/year \u2014 about 60% of their empty-mile cost.\n\nWould you be open to a 15-minute ROI analysis call? We'll show you exactly how much your fleet could save on your busiest routes.",
+      "recommended_channel": "LinkedIn DM"
+    },
+    {
+      "company": "Kuehne+Nagel SA",
+      "city": "Johannesburg",
+      "region": "Gauteng",
+      "type": "freight-forwarder",
+      "fleet_size_estimate": 180,
+      "estimated_empty_mile_pct": 33.1,
+      "inefficiency_score": 46.3,
+      "annual_empty_mile_cost_zar": 29165349,
+      "active_corridors": [
+        "JHB-DBN",
+        "JHB-CPT"
+      ],
+      "priority": "high",
+      "outreach_message": "Hi Kuehne+Nagel SA team,\n\nWe noticed that at 33% empty miles across 180+ vehicles on the JHB-DBN, JHB-CPT corridor, you could be losing R29,165,349/year in wasted fuel and driver time.\n\nBackhaulAI eliminates empty return trips by matching your trucks with guaranteed return loads the moment they deliver. Our AI finds backhaul opportunities on the JHB \u2194 DBN \u2194 JHB \u2194 CPT corridor with 85% match accuracy.\n\nOther logistics companies our size save R17,499,209/year \u2014 about 60% of their empty-mile cost.\n\nWould you be open to a 15-minute ROI analysis call? We'll show you exactly how much your fleet could save on your busiest routes.",
+      "recommended_channel": "LinkedIn DM"
+    },
+    {
+      "company": "Shoprite Checkers Logistics",
+      "city": "Cape Town",
+      "region": "Western Cape",
+      "type": "retail-logistics",
+      "fleet_size_estimate": 300,
+      "estimated_empty_mile_pct": 20.5,
+      "inefficiency_score": 41.0,
+      "annual_empty_mile_cost_zar": 30140373,
+      "active_corridors": [
+        "CPT-JHB",
+        "CPT-DBN"
+      ],
+      "priority": "high",
+      "outreach_message": "Hi Shoprite Checkers Logistics team,\n\nWe noticed that at 20% empty miles across 300+ vehicles on the CPT-JHB, CPT-DBN corridor, you could be losing R30,140,373/year in wasted fuel and driver time.\n\nBackhaulAI eliminates empty return trips by matching your trucks with guaranteed return loads the moment they deliver. Our AI finds backhaul opportunities on the CPT \u2194 JHB \u2194 CPT \u2194 DBN corridor with 85% match accuracy.\n\nOther logistics companies our size save R18,084,223/year \u2014 about 60% of their empty-mile cost.\n\nWould you be open to a 15-minute ROI analysis call? We'll show you exactly how much your fleet could save on your busiest routes.",
+      "recommended_channel": "Email + Phone"
+    },
+    {
+      "company": "Value Logistics",
+      "city": "Johannesburg",
+      "region": "Gauteng",
+      "type": "3PL",
+      "fleet_size_estimate": 150,
+      "estimated_empty_mile_pct": 31.5,
+      "inefficiency_score": 39.4,
+      "annual_empty_mile_cost_zar": 23132751,
+      "active_corridors": [
+        "JHB-DBN",
+        "JHB-CPT",
+        "JHB-PLZ"
+      ],
+      "priority": "high",
+      "outreach_message": "Hi Value Logistics team,\n\nWe noticed that at 31% empty miles across 150+ vehicles on the JHB-DBN, JHB-CPT, JHB-PLZ corridor, you could be losing R23,132,751/year in wasted fuel and driver time.\n\nBackhaulAI eliminates empty return trips by matching your trucks with guaranteed return loads the moment they deliver. Our AI finds backhaul opportunities on the JHB \u2194 DBN \u2194 JHB \u2194 CPT \u2194 JHB \u2194 PLZ corridor with 85% match accuracy.\n\nOther logistics companies our size save R13,879,650/year \u2014 about 60% of their empty-mile cost.\n\nWould you be open to a 15-minute ROI analysis call? We'll show you exactly how much your fleet could save on your busiest routes.",
+      "recommended_channel": "LinkedIn DM"
+    },
+    {
+      "company": "DP World Logistics SA",
+      "city": "Johannesburg",
+      "region": "Gauteng",
+      "type": "freight-forwarder",
+      "fleet_size_estimate": 200,
+      "estimated_empty_mile_pct": 25.3,
+      "inefficiency_score": 37.9,
+      "annual_empty_mile_cost_zar": 24724905,
+      "active_corridors": [
+        "JHB-DBN",
+        "JHB-CPT"
+      ],
+      "priority": "high",
+      "outreach_message": "Hi DP World Logistics SA team,\n\nWe noticed that at 25% empty miles across 200+ vehicles on the JHB-DBN, JHB-CPT corridor, you could be losing R24,724,905/year in wasted fuel and driver time.\n\nBackhaulAI eliminates empty return trips by matching your trucks with guaranteed return loads the moment they deliver. Our AI finds backhaul opportunities on the JHB \u2194 DBN \u2194 JHB \u2194 CPT corridor with 85% match accuracy.\n\nOther logistics companies our size save R14,834,943/year \u2014 about 60% of their empty-mile cost.\n\nWould you be open to a 15-minute ROI analysis call? We'll show you exactly how much your fleet could save on your busiest routes.",
+      "recommended_channel": "LinkedIn DM"
+    },
+    {
+      "company": "KZN Logistics Group",
+      "city": "Durban",
+      "region": "KZN",
+      "type": "3PL",
+      "fleet_size_estimate": 120,
+      "estimated_empty_mile_pct": 33.9,
+      "inefficiency_score": 37.3,
+      "annual_empty_mile_cost_zar": 19929733,
+      "active_corridors": [
+        "DBN-JHB",
+        "DBN-CPT"
+      ],
+      "priority": "high",
+      "outreach_message": "Hi KZN Logistics Group team,\n\nWe noticed that at 33% empty miles across 120+ vehicles on the DBN-JHB, DBN-CPT corridor, you could be losing R19,929,733/year in wasted fuel and driver time.\n\nBackhaulAI eliminates empty return trips by matching your trucks with guaranteed return loads the moment they deliver. Our AI finds backhaul opportunities on the DBN \u2194 JHB \u2194 DBN \u2194 CPT corridor with 85% match accuracy.\n\nOther logistics companies our size save R11,957,839/year \u2014 about 60% of their empty-mile cost.\n\nWould you be open to a 15-minute ROI analysis call? We'll show you exactly how much your fleet could save on your busiest routes.",
+      "recommended_channel": "LinkedIn DM"
+    },
+    {
+      "company": "Massmart Logistics",
+      "city": "Johannesburg",
+      "region": "Gauteng",
+      "type": "retail-logistics",
+      "fleet_size_estimate": 250,
+      "estimated_empty_mile_pct": 21.2,
+      "inefficiency_score": 37.1,
+      "annual_empty_mile_cost_zar": 25930682,
+      "active_corridors": [
+        "JHB-DBN",
+        "JHB-CPT"
+      ],
+      "priority": "high",
+      "outreach_message": "Hi Massmart Logistics team,\n\nWe noticed that at 21% empty miles across 250+ vehicles on the JHB-DBN, JHB-CPT corridor, you could be losing R25,930,682/year in wasted fuel and driver time.\n\nBackhaulAI eliminates empty return trips by matching your trucks with guaranteed return loads the moment they deliver. Our AI finds backhaul opportunities on the JHB \u2194 DBN \u2194 JHB \u2194 CPT corridor with 85% match accuracy.\n\nOther logistics companies our size save R15,558,409/year \u2014 about 60% of their empty-mile cost.\n\nWould you be open to a 15-minute ROI analysis call? We'll show you exactly how much your fleet could save on your busiest routes.",
+      "recommended_channel": "Email + Phone"
+    },
+    {
+      "company": "Pick n Pay Logistics",
+      "city": "Johannesburg",
+      "region": "Gauteng",
+      "type": "retail-logistics",
+      "fleet_size_estimate": 200,
+      "estimated_empty_mile_pct": 23.6,
+      "inefficiency_score": 35.4,
+      "annual_empty_mile_cost_zar": 23125834,
+      "active_corridors": [
+        "JHB-DBN",
+        "JHB-CPT"
+      ],
+      "priority": "high",
+      "outreach_message": "Hi Pick n Pay Logistics team,\n\nWe noticed that at 23% empty miles across 200+ vehicles on the JHB-DBN, JHB-CPT corridor, you could be losing R23,125,834/year in wasted fuel and driver time.\n\nBackhaulAI eliminates empty return trips by matching your trucks with guaranteed return loads the moment they deliver. Our AI finds backhaul opportunities on the JHB \u2194 DBN \u2194 JHB \u2194 CPT corridor with 85% match accuracy.\n\nOther logistics companies our size save R13,875,500/year \u2014 about 60% of their empty-mile cost.\n\nWould you be open to a 15-minute ROI analysis call? We'll show you exactly how much your fleet could save on your busiest routes.",
+      "recommended_channel": "Email + Phone"
+    },
+    {
+      "company": "Manica Group",
+      "city": "Johannesburg",
+      "region": "Gauteng",
+      "type": "3PL",
+      "fleet_size_estimate": 150,
+      "estimated_empty_mile_pct": 27.3,
+      "inefficiency_score": 34.1,
+      "annual_empty_mile_cost_zar": 20033685,
+      "active_corridors": [
+        "JHB-DBN"
+      ],
+      "priority": "high",
+      "outreach_message": "Hi Manica Group team,\n\nWe noticed that at 27% empty miles across 150+ vehicles on the JHB-DBN corridor, you could be losing R20,033,685/year in wasted fuel and driver time.\n\nBackhaulAI eliminates empty return trips by matching your trucks with guaranteed return loads the moment they deliver. Our AI finds backhaul opportunities on the JHB \u2194 DBN corridor with 85% match accuracy.\n\nOther logistics companies our size save R12,020,211/year \u2014 about 60% of their empty-mile cost.\n\nWould you be open to a 15-minute ROI analysis call? We'll show you exactly how much your fleet could save on your busiest routes.",
+      "recommended_channel": "LinkedIn DM"
+    },
+    {
+      "company": "Rhenus Logistics SA",
+      "city": "Johannesburg",
+      "region": "Gauteng",
+      "type": "3PL",
+      "fleet_size_estimate": 90,
+      "estimated_empty_mile_pct": 33.5,
+      "inefficiency_score": 31.8,
+      "annual_empty_mile_cost_zar": 14750399,
+      "active_corridors": [
+        "JHB-DBN"
+      ],
+      "priority": "high",
+      "outreach_message": "Hi Rhenus Logistics SA team,\n\nWe noticed that at 33% empty miles across 90+ vehicles on the JHB-DBN corridor, you could be losing R14,750,399/year in wasted fuel and driver time.\n\nBackhaulAI eliminates empty return trips by matching your trucks with guaranteed return loads the moment they deliver. Our AI finds backhaul opportunities on the JHB \u2194 DBN corridor with 85% match accuracy.\n\nOther logistics companies our size save R8,850,239/year \u2014 about 60% of their empty-mile cost.\n\nWould you be open to a 15-minute ROI analysis call? We'll show you exactly how much your fleet could save on your busiest routes.",
+      "recommended_channel": "LinkedIn DM"
+    },
+    {
+      "company": "RTT Group",
+      "city": "Johannesburg",
+      "region": "Gauteng",
+      "type": "distribution",
+      "fleet_size_estimate": 300,
+      "estimated_empty_mile_pct": 15.1,
+      "inefficiency_score": 30.1,
+      "annual_empty_mile_cost_zar": 22127454,
+      "active_corridors": [
+        "JHB-DBN",
+        "JHB-CPT"
+      ],
+      "priority": "high",
+      "outreach_message": "Hi RTT Group team,\n\nWe noticed that at 15% empty miles across 300+ vehicles on the JHB-DBN, JHB-CPT corridor, you could be losing R22,127,454/year in wasted fuel and driver time.\n\nBackhaulAI eliminates empty return trips by matching your trucks with guaranteed return loads the moment they deliver. Our AI finds backhaul opportunities on the JHB \u2194 DBN \u2194 JHB \u2194 CPT corridor with 85% match accuracy.\n\nOther logistics companies our size save R13,276,472/year \u2014 about 60% of their empty-mile cost.\n\nWould you be open to a 15-minute ROI analysis call? We'll show you exactly how much your fleet could save on your busiest routes.",
+      "recommended_channel": "Email + Phone"
+    },
+    {
+      "company": "Continental Logistics",
+      "city": "Johannesburg",
+      "region": "Gauteng",
+      "type": "3PL",
+      "fleet_size_estimate": 85,
+      "estimated_empty_mile_pct": 32.0,
+      "inefficiency_score": 29.6,
+      "annual_empty_mile_cost_zar": 13309377,
+      "active_corridors": [
+        "JHB-DBN",
+        "JHB-CPT"
+      ],
+      "priority": "medium",
+      "outreach_message": "Hi Continental Logistics team,\n\nWe noticed that at 31% empty miles across 85+ vehicles on the JHB-DBN, JHB-CPT corridor, you could be losing R13,309,377/year in wasted fuel and driver time.\n\nBackhaulAI eliminates empty return trips by matching your trucks with guaranteed return loads the moment they deliver. Our AI finds backhaul opportunities on the JHB \u2194 DBN \u2194 JHB \u2194 CPT corridor with 85% match accuracy.\n\nOther logistics companies our size save R7,985,626/year \u2014 about 60% of their empty-mile cost.\n\nWould you be open to a 15-minute ROI analysis call? We'll show you exactly how much your fleet could save on your busiest routes.",
+      "recommended_channel": "LinkedIn DM"
+    },
+    {
+      "company": "TALSA (Total African Logistics)",
+      "city": "Johannesburg",
+      "region": "Gauteng",
+      "type": "3PL",
+      "fleet_size_estimate": 80,
+      "estimated_empty_mile_pct": 32.4,
+      "inefficiency_score": 29.1,
+      "annual_empty_mile_cost_zar": 12676610,
+      "active_corridors": [
+        "JHB-DBN",
+        "JHB-CPT"
+      ],
+      "priority": "medium",
+      "outreach_message": "Hi TALSA (Total African Logistics) team,\n\nWe noticed that at 32% empty miles across 80+ vehicles on the JHB-DBN, JHB-CPT corridor, you could be losing R12,676,610/year in wasted fuel and driver time.\n\nBackhaulAI eliminates empty return trips by matching your trucks with guaranteed return loads the moment they deliver. Our AI finds backhaul opportunities on the JHB \u2194 DBN \u2194 JHB \u2194 CPT corridor with 85% match accuracy.\n\nOther logistics companies our size save R7,605,966/year \u2014 about 60% of their empty-mile cost.\n\nWould you be open to a 15-minute ROI analysis call? We'll show you exactly how much your fleet could save on your busiest routes.",
+      "recommended_channel": "LinkedIn DM"
+    },
+    {
+      "company": "Woolworths Logistics",
+      "city": "Cape Town",
+      "region": "Western Cape",
+      "type": "retail-logistics",
+      "fleet_size_estimate": 150,
+      "estimated_empty_mile_pct": 23.3,
+      "inefficiency_score": 29.1,
+      "annual_empty_mile_cost_zar": 17107148,
+      "active_corridors": [
+        "CPT-JHB"
+      ],
+      "priority": "medium",
+      "outreach_message": "Hi Woolworths Logistics team,\n\nWe noticed that at 23% empty miles across 150+ vehicles on the CPT-JHB corridor, you could be losing R17,107,148/year in wasted fuel and driver time.\n\nBackhaulAI eliminates empty return trips by matching your trucks with guaranteed return loads the moment they deliver. Our AI finds backhaul opportunities on the CPT \u2194 JHB corridor with 85% match accuracy.\n\nOther logistics companies our size save R10,264,288/year \u2014 about 60% of their empty-mile cost.\n\nWould you be open to a 15-minute ROI analysis call? We'll show you exactly how much your fleet could save on your busiest routes.",
+      "recommended_channel": "Email + Phone"
+    },
+    {
+      "company": "Grindrod Logistics",
+      "city": "Johannesburg",
+      "region": "Gauteng",
+      "type": "3PL",
+      "fleet_size_estimate": 120,
+      "estimated_empty_mile_pct": 26.0,
+      "inefficiency_score": 28.6,
+      "annual_empty_mile_cost_zar": 15256228,
+      "active_corridors": [
+        "JHB-DBN",
+        "JHB-CPT"
+      ],
+      "priority": "medium",
+      "outreach_message": "Hi Grindrod Logistics team,\n\nWe noticed that at 25% empty miles across 120+ vehicles on the JHB-DBN, JHB-CPT corridor, you could be losing R15,256,228/year in wasted fuel and driver time.\n\nBackhaulAI eliminates empty return trips by matching your trucks with guaranteed return loads the moment they deliver. Our AI finds backhaul opportunities on the JHB \u2194 DBN \u2194 JHB \u2194 CPT corridor with 85% match accuracy.\n\nOther logistics companies our size save R9,153,736/year \u2014 about 60% of their empty-mile cost.\n\nWould you be open to a 15-minute ROI analysis call? We'll show you exactly how much your fleet could save on your busiest routes.",
+      "recommended_channel": "LinkedIn DM"
+    },
+    {
+      "company": "Pepkor Logistics",
+      "city": "Cape Town",
+      "region": "Western Cape",
+      "type": "retail-logistics",
+      "fleet_size_estimate": 200,
+      "estimated_empty_mile_pct": 18.8,
+      "inefficiency_score": 28.2,
+      "annual_empty_mile_cost_zar": 18394609,
+      "active_corridors": [
+        "CPT-JHB",
+        "CPT-DBN"
+      ],
+      "priority": "medium",
+      "outreach_message": "Hi Pepkor Logistics team,\n\nWe noticed that at 18% empty miles across 200+ vehicles on the CPT-JHB, CPT-DBN corridor, you could be losing R18,394,609/year in wasted fuel and driver time.\n\nBackhaulAI eliminates empty return trips by matching your trucks with guaranteed return loads the moment they deliver. Our AI finds backhaul opportunities on the CPT \u2194 JHB \u2194 CPT \u2194 DBN corridor with 85% match accuracy.\n\nOther logistics companies our size save R11,036,765/year \u2014 about 60% of their empty-mile cost.\n\nWould you be open to a 15-minute ROI analysis call? We'll show you exactly how much your fleet could save on your busiest routes.",
+      "recommended_channel": "Email + Phone"
+    },
+    {
+      "company": "Fokus Logistics",
+      "city": "Johannesburg",
+      "region": "Gauteng",
+      "type": "carrier",
+      "fleet_size_estimate": 30,
+      "estimated_empty_mile_pct": 41.4,
+      "inefficiency_score": 26.9,
+      "annual_empty_mile_cost_zar": 6074493,
+      "active_corridors": [
+        "JHB-DBN"
+      ],
+      "priority": "medium",
+      "outreach_message": "Hi Fokus Logistics team,\n\nWe noticed that at 41% empty miles across 30+ vehicles on the JHB-DBN corridor, you could be losing R6,074,493/year in wasted fuel and driver time.\n\nBackhaulAI eliminates empty return trips by matching your trucks with guaranteed return loads the moment they deliver. Our AI finds backhaul opportunities on the JHB \u2194 DBN corridor with 85% match accuracy.\n\nOther logistics companies our size save R3,644,695/year \u2014 about 60% of their empty-mile cost.\n\nWould you be open to a 15-minute ROI analysis call? We'll show you exactly how much your fleet could save on your busiest routes.",
+      "recommended_channel": "Email + Phone"
+    },
+    {
+      "company": "Swift Freight SA",
+      "city": "Durban",
+      "region": "KZN",
+      "type": "broker",
+      "fleet_size_estimate": 40,
+      "estimated_empty_mile_pct": 38.1,
+      "inefficiency_score": 26.6,
+      "annual_empty_mile_cost_zar": 7453316,
+      "active_corridors": [
+        "DBN-JHB"
+      ],
+      "priority": "medium",
+      "outreach_message": "Hi Swift Freight SA team,\n\nWe noticed that at 38% empty miles across 40+ vehicles on the DBN-JHB corridor, you could be losing R7,453,316/year in wasted fuel and driver time.\n\nBackhaulAI eliminates empty return trips by matching your trucks with guaranteed return loads the moment they deliver. Our AI finds backhaul opportunities on the DBN \u2194 JHB corridor with 85% match accuracy.\n\nOther logistics companies our size save R4,471,989/year \u2014 about 60% of their empty-mile cost.\n\nWould you be open to a 15-minute ROI analysis call? We'll show you exactly how much your fleet could save on your busiest routes.",
+      "recommended_channel": "Email + Phone"
+    },
+    {
+      "company": "Tru-Test Logistics",
+      "city": "Johannesburg",
+      "region": "Gauteng",
+      "type": "carrier",
+      "fleet_size_estimate": 40,
+      "estimated_empty_mile_pct": 37.3,
+      "inefficiency_score": 26.1,
+      "annual_empty_mile_cost_zar": 7310298,
+      "active_corridors": [
+        "JHB-DBN",
+        "JHB-NLP"
+      ],
+      "priority": "medium",
+      "outreach_message": "Hi Tru-Test Logistics team,\n\nWe noticed that at 37% empty miles across 40+ vehicles on the JHB-DBN, JHB-NLP corridor, you could be losing R7,310,298/year in wasted fuel and driver time.\n\nBackhaulAI eliminates empty return trips by matching your trucks with guaranteed return loads the moment they deliver. Our AI finds backhaul opportunities on the JHB \u2194 DBN \u2194 JHB \u2194 NLP corridor with 85% match accuracy.\n\nOther logistics companies our size save R4,386,178/year \u2014 about 60% of their empty-mile cost.\n\nWould you be open to a 15-minute ROI analysis call? We'll show you exactly how much your fleet could save on your busiest routes.",
+      "recommended_channel": "Email + Phone"
+    },
+    {
+      "company": "N3 Corridor Carriers",
+      "city": "Durban",
+      "region": "KZN",
+      "type": "carrier",
+      "fleet_size_estimate": 45,
+      "estimated_empty_mile_pct": 35.9,
+      "inefficiency_score": 26.0,
+      "annual_empty_mile_cost_zar": 7902744,
+      "active_corridors": [
+        "DBN-JHB"
+      ],
+      "priority": "medium",
+      "outreach_message": "Hi N3 Corridor Carriers team,\n\nWe noticed that at 35% empty miles across 45+ vehicles on the DBN-JHB corridor, you could be losing R7,902,744/year in wasted fuel and driver time.\n\nBackhaulAI eliminates empty return trips by matching your trucks with guaranteed return loads the moment they deliver. Our AI finds backhaul opportunities on the DBN \u2194 JHB corridor with 85% match accuracy.\n\nOther logistics companies our size save R4,741,646/year \u2014 about 60% of their empty-mile cost.\n\nWould you be open to a 15-minute ROI analysis call? We'll show you exactly how much your fleet could save on your busiest routes.",
+      "recommended_channel": "Email + Phone"
+    },
+    {
+      "company": "Wheels Logistics",
+      "city": "Durban",
+      "region": "KZN",
+      "type": "carrier",
+      "fleet_size_estimate": 25,
+      "estimated_empty_mile_pct": 41.0,
+      "inefficiency_score": 25.6,
+      "annual_empty_mile_cost_zar": 5022961,
+      "active_corridors": [
+        "DBN-JHB"
+      ],
+      "priority": "medium",
+      "outreach_message": "Hi Wheels Logistics team,\n\nWe noticed that at 41% empty miles across 25+ vehicles on the DBN-JHB corridor, you could be losing R5,022,961/year in wasted fuel and driver time.\n\nBackhaulAI eliminates empty return trips by matching your trucks with guaranteed return loads the moment they deliver. Our AI finds backhaul opportunities on the DBN \u2194 JHB corridor with 85% match accuracy.\n\nOther logistics companies our size save R3,013,776/year \u2014 about 60% of their empty-mile cost.\n\nWould you be open to a 15-minute ROI analysis call? We'll show you exactly how much your fleet could save on your busiest routes.",
+      "recommended_channel": "Email + Phone"
+    },
+    {
+      "company": "DSV Healthcare Logistics",
+      "city": "Johannesburg",
+      "region": "Gauteng",
+      "type": "specialist-logistics",
+      "fleet_size_estimate": 80,
+      "estimated_empty_mile_pct": 27.0,
+      "inefficiency_score": 24.3,
+      "annual_empty_mile_cost_zar": 10593267,
+      "active_corridors": [
+        "JHB-DBN"
+      ],
+      "priority": "medium",
+      "outreach_message": "Hi DSV Healthcare Logistics team,\n\nWe noticed that at 27% empty miles across 80+ vehicles on the JHB-DBN corridor, you could be losing R10,593,267/year in wasted fuel and driver time.\n\nBackhaulAI eliminates empty return trips by matching your trucks with guaranteed return loads the moment they deliver. Our AI finds backhaul opportunities on the JHB \u2194 DBN corridor with 85% match accuracy.\n\nOther logistics companies our size save R6,355,960/year \u2014 about 60% of their empty-mile cost.\n\nWould you be open to a 15-minute ROI analysis call? We'll show you exactly how much your fleet could save on your busiest routes.",
+      "recommended_channel": "Email + Phone"
+    },
+    {
+      "company": "SAFOM",
+      "city": "Johannesburg",
+      "region": "Gauteng",
+      "type": "broker",
+      "fleet_size_estimate": 50,
+      "estimated_empty_mile_pct": 32.2,
+      "inefficiency_score": 24.2,
+      "annual_empty_mile_cost_zar": 7890420,
+      "active_corridors": [
+        "JHB-DBN"
+      ],
+      "priority": "medium",
+      "outreach_message": "Hi SAFOM team,\n\nWe noticed that at 32% empty miles across 50+ vehicles on the JHB-DBN corridor, you could be losing R7,890,420/year in wasted fuel and driver time.\n\nBackhaulAI eliminates empty return trips by matching your trucks with guaranteed return loads the moment they deliver. Our AI finds backhaul opportunities on the JHB \u2194 DBN corridor with 85% match accuracy.\n\nOther logistics companies our size save R4,734,252/year \u2014 about 60% of their empty-mile cost.\n\nWould you be open to a 15-minute ROI analysis call? We'll show you exactly how much your fleet could save on your busiest routes.",
+      "recommended_channel": "Email + Phone"
+    },
+    {
+      "company": "V&A Logistics",
+      "city": "Cape Town",
+      "region": "Western Cape",
+      "type": "carrier",
+      "fleet_size_estimate": 25,
+      "estimated_empty_mile_pct": 38.6,
+      "inefficiency_score": 24.2,
+      "annual_empty_mile_cost_zar": 4730555,
+      "active_corridors": [
+        "CPT-JHB"
+      ],
+      "priority": "medium",
+      "outreach_message": "Hi V&A Logistics team,\n\nWe noticed that at 38% empty miles across 25+ vehicles on the CPT-JHB corridor, you could be losing R4,730,555/year in wasted fuel and driver time.\n\nBackhaulAI eliminates empty return trips by matching your trucks with guaranteed return loads the moment they deliver. Our AI finds backhaul opportunities on the CPT \u2194 JHB corridor with 85% match accuracy.\n\nOther logistics companies our size save R2,838,333/year \u2014 about 60% of their empty-mile cost.\n\nWould you be open to a 15-minute ROI analysis call? We'll show you exactly how much your fleet could save on your busiest routes.",
+      "recommended_channel": "Email + Phone"
+    },
+    {
+      "company": "Freightmore SA",
+      "city": "Durban",
+      "region": "KZN",
+      "type": "3PL",
+      "fleet_size_estimate": 90,
+      "estimated_empty_mile_pct": 25.3,
+      "inefficiency_score": 24.0,
+      "annual_empty_mile_cost_zar": 11147298,
+      "active_corridors": [
+        "DBN-JHB",
+        "DBN-CPT"
+      ],
+      "priority": "medium",
+      "outreach_message": "Hi Freightmore SA team,\n\nWe noticed that at 25% empty miles across 90+ vehicles on the DBN-JHB, DBN-CPT corridor, you could be losing R11,147,298/year in wasted fuel and driver time.\n\nBackhaulAI eliminates empty return trips by matching your trucks with guaranteed return loads the moment they deliver. Our AI finds backhaul opportunities on the DBN \u2194 JHB \u2194 DBN \u2194 CPT corridor with 85% match accuracy.\n\nOther logistics companies our size save R6,688,378/year \u2014 about 60% of their empty-mile cost.\n\nWould you be open to a 15-minute ROI analysis call? We'll show you exactly how much your fleet could save on your busiest routes.",
+      "recommended_channel": "LinkedIn DM"
+    },
+    {
+      "company": "TrainsFreight Logistics",
+      "city": "Johannesburg",
+      "region": "Gauteng",
+      "type": "broker",
+      "fleet_size_estimate": 30,
+      "estimated_empty_mile_pct": 36.8,
+      "inefficiency_score": 23.9,
+      "annual_empty_mile_cost_zar": 5400336,
+      "active_corridors": [
+        "JHB-DBN",
+        "JHB-NLP"
+      ],
+      "priority": "medium",
+      "outreach_message": "Hi TrainsFreight Logistics team,\n\nWe noticed that at 36% empty miles across 30+ vehicles on the JHB-DBN, JHB-NLP corridor, you could be losing R5,400,336/year in wasted fuel and driver time.\n\nBackhaulAI eliminates empty return trips by matching your trucks with guaranteed return loads the moment they deliver. Our AI finds backhaul opportunities on the JHB \u2194 DBN \u2194 JHB \u2194 NLP corridor with 85% match accuracy.\n\nOther logistics companies our size save R3,240,201/year \u2014 about 60% of their empty-mile cost.\n\nWould you be open to a 15-minute ROI analysis call? We'll show you exactly how much your fleet could save on your busiest routes.",
+      "recommended_channel": "Email + Phone"
+    },
+    {
+      "company": "Cape Town Freight Services",
+      "city": "Cape Town",
+      "region": "Western Cape",
+      "type": "3PL",
+      "fleet_size_estimate": 75,
+      "estimated_empty_mile_pct": 27.2,
+      "inefficiency_score": 23.8,
+      "annual_empty_mile_cost_zar": 9982839,
+      "active_corridors": [
+        "CPT-JHB"
+      ],
+      "priority": "medium",
+      "outreach_message": "Hi Cape Town Freight Services team,\n\nWe noticed that at 27% empty miles across 75+ vehicles on the CPT-JHB corridor, you could be losing R9,982,839/year in wasted fuel and driver time.\n\nBackhaulAI eliminates empty return trips by matching your trucks with guaranteed return loads the moment they deliver. Our AI finds backhaul opportunities on the CPT \u2194 JHB corridor with 85% match accuracy.\n\nOther logistics companies our size save R5,989,703/year \u2014 about 60% of their empty-mile cost.\n\nWould you be open to a 15-minute ROI analysis call? We'll show you exactly how much your fleet could save on your busiest routes.",
+      "recommended_channel": "LinkedIn DM"
+    },
+    {
+      "company": "PE Transport Solutions",
+      "city": "Port Elizabeth",
+      "region": "Eastern Cape",
+      "type": "carrier",
+      "fleet_size_estimate": 35,
+      "estimated_empty_mile_pct": 35.3,
+      "inefficiency_score": 23.8,
+      "annual_empty_mile_cost_zar": 6043072,
+      "active_corridors": [
+        "PLZ-JHB"
+      ],
+      "priority": "medium",
+      "outreach_message": "Hi PE Transport Solutions team,\n\nWe noticed that at 35% empty miles across 35+ vehicles on the PLZ-JHB corridor, you could be losing R6,043,072/year in wasted fuel and driver time.\n\nBackhaulAI eliminates empty return trips by matching your trucks with guaranteed return loads the moment they deliver. Our AI finds backhaul opportunities on the PLZ \u2194 JHB corridor with 85% match accuracy.\n\nOther logistics companies our size save R3,625,843/year \u2014 about 60% of their empty-mile cost.\n\nWould you be open to a 15-minute ROI analysis call? We'll show you exactly how much your fleet could save on your busiest routes.",
+      "recommended_channel": "Email + Phone"
+    },
+    {
+      "company": "AC Logistics",
+      "city": "Johannesburg",
+      "region": "Gauteng",
+      "type": "broker",
+      "fleet_size_estimate": 20,
+      "estimated_empty_mile_pct": 39.7,
+      "inefficiency_score": 23.8,
+      "annual_empty_mile_cost_zar": 3890475,
+      "active_corridors": [
+        "JHB-DBN"
+      ],
+      "priority": "medium",
+      "outreach_message": "Hi AC Logistics team,\n\nWe noticed that at 39% empty miles across 20+ vehicles on the JHB-DBN corridor, you could be losing R3,890,475/year in wasted fuel and driver time.\n\nBackhaulAI eliminates empty return trips by matching your trucks with guaranteed return loads the moment they deliver. Our AI finds backhaul opportunities on the JHB \u2194 DBN corridor with 85% match accuracy.\n\nOther logistics companies our size save R2,334,285/year \u2014 about 60% of their empty-mile cost.\n\nWould you be open to a 15-minute ROI analysis call? We'll show you exactly how much your fleet could save on your busiest routes.",
+      "recommended_channel": "Email + Phone"
+    },
+    {
+      "company": "Spar Group Logistics",
+      "city": "Durban",
+      "region": "KZN",
+      "type": "retail-logistics",
+      "fleet_size_estimate": 120,
+      "estimated_empty_mile_pct": 20.8,
+      "inefficiency_score": 22.9,
+      "annual_empty_mile_cost_zar": 12204859,
+      "active_corridors": [
+        "DBN-JHB"
+      ],
+      "priority": "medium",
+      "outreach_message": "Hi Spar Group Logistics team,\n\nWe noticed that at 20% empty miles across 120+ vehicles on the DBN-JHB corridor, you could be losing R12,204,859/year in wasted fuel and driver time.\n\nBackhaulAI eliminates empty return trips by matching your trucks with guaranteed return loads the moment they deliver. Our AI finds backhaul opportunities on the DBN \u2194 JHB corridor with 85% match accuracy.\n\nOther logistics companies our size save R7,322,915/year \u2014 about 60% of their empty-mile cost.\n\nWould you be open to a 15-minute ROI analysis call? We'll show you exactly how much your fleet could save on your busiest routes.",
+      "recommended_channel": "Email + Phone"
+    },
+    {
+      "company": "SA Export Connection",
+      "city": "Durban",
+      "region": "KZN",
+      "type": "broker",
+      "fleet_size_estimate": 15,
+      "estimated_empty_mile_pct": 39.6,
+      "inefficiency_score": 22.8,
+      "annual_empty_mile_cost_zar": 2906177,
+      "active_corridors": [
+        "DBN-JHB"
+      ],
+      "priority": "medium",
+      "outreach_message": "Hi SA Export Connection team,\n\nWe noticed that at 39% empty miles across 15+ vehicles on the DBN-JHB corridor, you could be losing R2,906,177/year in wasted fuel and driver time.\n\nBackhaulAI eliminates empty return trips by matching your trucks with guaranteed return loads the moment they deliver. Our AI finds backhaul opportunities on the DBN \u2194 JHB corridor with 85% match accuracy.\n\nOther logistics companies our size save R1,743,706/year \u2014 about 60% of their empty-mile cost.\n\nWould you be open to a 15-minute ROI analysis call? We'll show you exactly how much your fleet could save on your busiest routes.",
+      "recommended_channel": "Email + Phone"
+    },
+    {
+      "company": "Miller Freight Services",
+      "city": "Johannesburg",
+      "region": "Gauteng",
+      "type": "3PL",
+      "fleet_size_estimate": 60,
+      "estimated_empty_mile_pct": 28.4,
+      "inefficiency_score": 22.7,
+      "annual_empty_mile_cost_zar": 8332780,
+      "active_corridors": [
+        "JHB-DBN",
+        "JHB-CPT"
+      ],
+      "priority": "medium",
+      "outreach_message": "Hi Miller Freight Services team,\n\nWe noticed that at 28% empty miles across 60+ vehicles on the JHB-DBN, JHB-CPT corridor, you could be losing R8,332,780/year in wasted fuel and driver time.\n\nBackhaulAI eliminates empty return trips by matching your trucks with guaranteed return loads the moment they deliver. Our AI finds backhaul opportunities on the JHB \u2194 DBN \u2194 JHB \u2194 CPT corridor with 85% match accuracy.\n\nOther logistics companies our size save R4,999,668/year \u2014 about 60% of their empty-mile cost.\n\nWould you be open to a 15-minute ROI analysis call? We'll show you exactly how much your fleet could save on your busiest routes.",
+      "recommended_channel": "LinkedIn DM"
+    },
+    {
+      "company": "Nelspruit Logistics",
+      "city": "Nelspruit",
+      "region": "Mpumalanga",
+      "type": "carrier",
+      "fleet_size_estimate": 20,
+      "estimated_empty_mile_pct": 37.0,
+      "inefficiency_score": 22.2,
+      "annual_empty_mile_cost_zar": 3621902,
+      "active_corridors": [
+        "NLP-JHB"
+      ],
+      "priority": "medium",
+      "outreach_message": "Hi Nelspruit Logistics team,\n\nWe noticed that at 36% empty miles across 20+ vehicles on the NLP-JHB corridor, you could be losing R3,621,902/year in wasted fuel and driver time.\n\nBackhaulAI eliminates empty return trips by matching your trucks with guaranteed return loads the moment they deliver. Our AI finds backhaul opportunities on the NLP \u2194 JHB corridor with 85% match accuracy.\n\nOther logistics companies our size save R2,173,141/year \u2014 about 60% of their empty-mile cost.\n\nWould you be open to a 15-minute ROI analysis call? We'll show you exactly how much your fleet could save on your busiest routes.",
+      "recommended_channel": "Email + Phone"
+    },
+    {
+      "company": "Diep River Logistics",
+      "city": "Cape Town",
+      "region": "Western Cape",
+      "type": "broker",
+      "fleet_size_estimate": 25,
+      "estimated_empty_mile_pct": 35.1,
+      "inefficiency_score": 21.9,
+      "annual_empty_mile_cost_zar": 4290555,
+      "active_corridors": [
+        "CPT-JHB",
+        "CPT-DBN"
+      ],
+      "priority": "medium",
+      "outreach_message": "Hi Diep River Logistics team,\n\nWe noticed that at 35% empty miles across 25+ vehicles on the CPT-JHB, CPT-DBN corridor, you could be losing R4,290,555/year in wasted fuel and driver time.\n\nBackhaulAI eliminates empty return trips by matching your trucks with guaranteed return loads the moment they deliver. Our AI finds backhaul opportunities on the CPT \u2194 JHB \u2194 CPT \u2194 DBN corridor with 85% match accuracy.\n\nOther logistics companies our size save R2,574,333/year \u2014 about 60% of their empty-mile cost.\n\nWould you be open to a 15-minute ROI analysis call? We'll show you exactly how much your fleet could save on your busiest routes.",
+      "recommended_channel": "Email + Phone"
+    },
+    {
+      "company": "Tiger Logistics",
+      "city": "Cape Town",
+      "region": "Western Cape",
+      "type": "broker",
+      "fleet_size_estimate": 30,
+      "estimated_empty_mile_pct": 33.4,
+      "inefficiency_score": 21.7,
+      "annual_empty_mile_cost_zar": 4906160,
+      "active_corridors": [
+        "CPT-JHB"
+      ],
+      "priority": "medium",
+      "outreach_message": "Hi Tiger Logistics team,\n\nWe noticed that at 33% empty miles across 30+ vehicles on the CPT-JHB corridor, you could be losing R4,906,160/year in wasted fuel and driver time.\n\nBackhaulAI eliminates empty return trips by matching your trucks with guaranteed return loads the moment they deliver. Our AI finds backhaul opportunities on the CPT \u2194 JHB corridor with 85% match accuracy.\n\nOther logistics companies our size save R2,943,696/year \u2014 about 60% of their empty-mile cost.\n\nWould you be open to a 15-minute ROI analysis call? We'll show you exactly how much your fleet could save on your busiest routes.",
+      "recommended_channel": "Email + Phone"
+    },
+    {
+      "company": "Sparta Logistics",
+      "city": "Cape Town",
+      "region": "Western Cape",
+      "type": "3PL",
+      "fleet_size_estimate": 40,
+      "estimated_empty_mile_pct": 30.4,
+      "inefficiency_score": 21.3,
+      "annual_empty_mile_cost_zar": 5946149,
+      "active_corridors": [
+        "CPT-JHB"
+      ],
+      "priority": "medium",
+      "outreach_message": "Hi Sparta Logistics team,\n\nWe noticed that at 30% empty miles across 40+ vehicles on the CPT-JHB corridor, you could be losing R5,946,149/year in wasted fuel and driver time.\n\nBackhaulAI eliminates empty return trips by matching your trucks with guaranteed return loads the moment they deliver. Our AI finds backhaul opportunities on the CPT \u2194 JHB corridor with 85% match accuracy.\n\nOther logistics companies our size save R3,567,689/year \u2014 about 60% of their empty-mile cost.\n\nWould you be open to a 15-minute ROI analysis call? We'll show you exactly how much your fleet could save on your busiest routes.",
+      "recommended_channel": "LinkedIn DM"
+    },
+    {
+      "company": "Henred Freight",
+      "city": "Johannesburg",
+      "region": "Gauteng",
+      "type": "broker",
+      "fleet_size_estimate": 35,
+      "estimated_empty_mile_pct": 30.5,
+      "inefficiency_score": 20.6,
+      "annual_empty_mile_cost_zar": 5219325,
+      "active_corridors": [
+        "JHB-DBN",
+        "JHB-CPT"
+      ],
+      "priority": "medium",
+      "outreach_message": "Hi Henred Freight team,\n\nWe noticed that at 30% empty miles across 35+ vehicles on the JHB-DBN, JHB-CPT corridor, you could be losing R5,219,325/year in wasted fuel and driver time.\n\nBackhaulAI eliminates empty return trips by matching your trucks with guaranteed return loads the moment they deliver. Our AI finds backhaul opportunities on the JHB \u2194 DBN \u2194 JHB \u2194 CPT corridor with 85% match accuracy.\n\nOther logistics companies our size save R3,131,595/year \u2014 about 60% of their empty-mile cost.\n\nWould you be open to a 15-minute ROI analysis call? We'll show you exactly how much your fleet could save on your busiest routes.",
+      "recommended_channel": "Email + Phone"
+    },
+    {
+      "company": "UPD (United Parcel Distributors)",
+      "city": "Johannesburg",
+      "region": "Gauteng",
+      "type": "distribution",
+      "fleet_size_estimate": 100,
+      "estimated_empty_mile_pct": 20.4,
+      "inefficiency_score": 20.4,
+      "annual_empty_mile_cost_zar": 10012033,
+      "active_corridors": [
+        "JHB-DBN"
+      ],
+      "priority": "medium",
+      "outreach_message": "Hi UPD (United Parcel Distributors) team,\n\nWe noticed that at 20% empty miles across 100+ vehicles on the JHB-DBN corridor, you could be losing R10,012,033/year in wasted fuel and driver time.\n\nBackhaulAI eliminates empty return trips by matching your trucks with guaranteed return loads the moment they deliver. Our AI finds backhaul opportunities on the JHB \u2194 DBN corridor with 85% match accuracy.\n\nOther logistics companies our size save R6,007,219/year \u2014 about 60% of their empty-mile cost.\n\nWould you be open to a 15-minute ROI analysis call? We'll show you exactly how much your fleet could save on your busiest routes.",
+      "recommended_channel": "Email + Phone"
+    },
+    {
+      "company": "Crossroads Logistics",
+      "city": "Cape Town",
+      "region": "Western Cape",
+      "type": "broker",
+      "fleet_size_estimate": 20,
+      "estimated_empty_mile_pct": 32.8,
+      "inefficiency_score": 19.7,
+      "annual_empty_mile_cost_zar": 3209792,
+      "active_corridors": [
+        "CPT-JHB"
+      ],
+      "priority": "medium",
+      "outreach_message": "Hi Crossroads Logistics team,\n\nWe noticed that at 32% empty miles across 20+ vehicles on the CPT-JHB corridor, you could be losing R3,209,792/year in wasted fuel and driver time.\n\nBackhaulAI eliminates empty return trips by matching your trucks with guaranteed return loads the moment they deliver. Our AI finds backhaul opportunities on the CPT \u2194 JHB corridor with 85% match accuracy.\n\nOther logistics companies our size save R1,925,875/year \u2014 about 60% of their empty-mile cost.\n\nWould you be open to a 15-minute ROI analysis call? We'll show you exactly how much your fleet could save on your busiest routes.",
+      "recommended_channel": "Email + Phone"
+    },
+    {
+      "company": "Durban Harbour Logistics",
+      "city": "Durban",
+      "region": "KZN",
+      "type": "warehouse",
+      "fleet_size_estimate": 60,
+      "estimated_empty_mile_pct": 24.2,
+      "inefficiency_score": 19.4,
+      "annual_empty_mile_cost_zar": 7114638,
+      "active_corridors": [
+        "DBN-JHB"
+      ],
+      "priority": "medium",
+      "outreach_message": "Hi Durban Harbour Logistics team,\n\nWe noticed that at 24% empty miles across 60+ vehicles on the DBN-JHB corridor, you could be losing R7,114,638/year in wasted fuel and driver time.\n\nBackhaulAI eliminates empty return trips by matching your trucks with guaranteed return loads the moment they deliver. Our AI finds backhaul opportunities on the DBN \u2194 JHB corridor with 85% match accuracy.\n\nOther logistics companies our size save R4,268,782/year \u2014 about 60% of their empty-mile cost.\n\nWould you be open to a 15-minute ROI analysis call? We'll show you exactly how much your fleet could save on your busiest routes.",
+      "recommended_channel": "Email + Phone"
+    },
+    {
+      "company": "GAC South Africa",
+      "city": "Durban",
+      "region": "KZN",
+      "type": "freight-forwarder",
+      "fleet_size_estimate": 50,
+      "estimated_empty_mile_pct": 25.9,
+      "inefficiency_score": 19.4,
+      "annual_empty_mile_cost_zar": 6347042,
+      "active_corridors": [
+        "DBN-JHB"
+      ],
+      "priority": "medium",
+      "outreach_message": "Hi GAC South Africa team,\n\nWe noticed that at 25% empty miles across 50+ vehicles on the DBN-JHB corridor, you could be losing R6,347,042/year in wasted fuel and driver time.\n\nBackhaulAI eliminates empty return trips by matching your trucks with guaranteed return loads the moment they deliver. Our AI finds backhaul opportunities on the DBN \u2194 JHB corridor with 85% match accuracy.\n\nOther logistics companies our size save R3,808,225/year \u2014 about 60% of their empty-mile cost.\n\nWould you be open to a 15-minute ROI analysis call? We'll show you exactly how much your fleet could save on your busiest routes.",
+      "recommended_channel": "LinkedIn DM"
+    },
+    {
+      "company": "Legacy Logistics",
+      "city": "Johannesburg",
+      "region": "Gauteng",
+      "type": "broker",
+      "fleet_size_estimate": 25,
+      "estimated_empty_mile_pct": 31.0,
+      "inefficiency_score": 19.4,
+      "annual_empty_mile_cost_zar": 3795626,
+      "active_corridors": [
+        "JHB-CPT"
+      ],
+      "priority": "medium",
+      "outreach_message": "Hi Legacy Logistics team,\n\nWe noticed that at 31% empty miles across 25+ vehicles on the JHB-CPT corridor, you could be losing R3,795,626/year in wasted fuel and driver time.\n\nBackhaulAI eliminates empty return trips by matching your trucks with guaranteed return loads the moment they deliver. Our AI finds backhaul opportunities on the JHB \u2194 CPT corridor with 85% match accuracy.\n\nOther logistics companies our size save R2,277,375/year \u2014 about 60% of their empty-mile cost.\n\nWould you be open to a 15-minute ROI analysis call? We'll show you exactly how much your fleet could save on your busiest routes.",
+      "recommended_channel": "Email + Phone"
+    },
+    {
+      "company": "Eastport Logistics",
+      "city": "Durban",
+      "region": "KZN",
+      "type": "broker",
+      "fleet_size_estimate": 20,
+      "estimated_empty_mile_pct": 30.8,
+      "inefficiency_score": 18.5,
+      "annual_empty_mile_cost_zar": 3015732,
+      "active_corridors": [
+        "DBN-JHB"
+      ],
+      "priority": "medium",
+      "outreach_message": "Hi Eastport Logistics team,\n\nWe noticed that at 30% empty miles across 20+ vehicles on the DBN-JHB corridor, you could be losing R3,015,732/year in wasted fuel and driver time.\n\nBackhaulAI eliminates empty return trips by matching your trucks with guaranteed return loads the moment they deliver. Our AI finds backhaul opportunities on the DBN \u2194 JHB corridor with 85% match accuracy.\n\nOther logistics companies our size save R1,809,439/year \u2014 about 60% of their empty-mile cost.\n\nWould you be open to a 15-minute ROI analysis call? We'll show you exactly how much your fleet could save on your busiest routes.",
+      "recommended_channel": "Email + Phone"
+    },
+    {
+      "company": "Transnet Freight Rail (Logistics)",
+      "city": "Johannesburg",
+      "region": "Gauteng",
+      "type": "rail-logistics",
+      "fleet_size_estimate": 100,
+      "estimated_empty_mile_pct": 17.3,
+      "inefficiency_score": 17.3,
+      "annual_empty_mile_cost_zar": 8468767,
+      "active_corridors": [
+        "JHB-DBN"
+      ],
+      "priority": "medium",
+      "outreach_message": "Hi Transnet Freight Rail (Logistics) team,\n\nWe noticed that at 17% empty miles across 100+ vehicles on the JHB-DBN corridor, you could be losing R8,468,767/year in wasted fuel and driver time.\n\nBackhaulAI eliminates empty return trips by matching your trucks with guaranteed return loads the moment they deliver. Our AI finds backhaul opportunities on the JHB \u2194 DBN corridor with 85% match accuracy.\n\nOther logistics companies our size save R5,081,260/year \u2014 about 60% of their empty-mile cost.\n\nWould you be open to a 15-minute ROI analysis call? We'll show you exactly how much your fleet could save on your busiest routes.",
+      "recommended_channel": "Email + Phone"
+    },
+    {
+      "company": "ExecuJet Freight",
+      "city": "Johannesburg",
+      "region": "Gauteng",
+      "type": "freight-forwarder",
+      "fleet_size_estimate": 20,
+      "estimated_empty_mile_pct": 26.6,
+      "inefficiency_score": 15.9,
+      "annual_empty_mile_cost_zar": 2600246,
+      "active_corridors": [
+        "JHB-DBN"
+      ],
+      "priority": "medium",
+      "outreach_message": "Hi ExecuJet Freight team,\n\nWe noticed that at 26% empty miles across 20+ vehicles on the JHB-DBN corridor, you could be losing R2,600,246/year in wasted fuel and driver time.\n\nBackhaulAI eliminates empty return trips by matching your trucks with guaranteed return loads the moment they deliver. Our AI finds backhaul opportunities on the JHB \u2194 DBN corridor with 85% match accuracy.\n\nOther logistics companies our size save R1,560,147/year \u2014 about 60% of their empty-mile cost.\n\nWould you be open to a 15-minute ROI analysis call? We'll show you exactly how much your fleet could save on your busiest routes.",
+      "recommended_channel": "LinkedIn DM"
+    },
+    {
+      "company": "Bayhead Logistics",
+      "city": "Durban",
+      "region": "KZN",
+      "type": "warehouse",
+      "fleet_size_estimate": 30,
+      "estimated_empty_mile_pct": 22.9,
+      "inefficiency_score": 14.9,
+      "annual_empty_mile_cost_zar": 3362653,
+      "active_corridors": [
+        "DBN-JHB"
+      ],
+      "priority": "medium",
+      "outreach_message": "Hi Bayhead Logistics team,\n\nWe noticed that at 22% empty miles across 30+ vehicles on the DBN-JHB corridor, you could be losing R3,362,653/year in wasted fuel and driver time.\n\nBackhaulAI eliminates empty return trips by matching your trucks with guaranteed return loads the moment they deliver. Our AI finds backhaul opportunities on the DBN \u2194 JHB corridor with 85% match accuracy.\n\nOther logistics companies our size save R2,017,591/year \u2014 about 60% of their empty-mile cost.\n\nWould you be open to a 15-minute ROI analysis call? We'll show you exactly how much your fleet could save on your busiest routes.",
+      "recommended_channel": "Email + Phone"
+    }
+  ]
+}

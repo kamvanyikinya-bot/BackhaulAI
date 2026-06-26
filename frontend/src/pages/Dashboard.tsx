@@ -6,7 +6,7 @@ import { useAuth } from '../lib/auth';
 import { formatCurrency } from '../lib/utils';
 import { mockDashboardStats } from '../lib/mockData';
 import { stats as statsApi } from '../lib/api';
-import { TrendingDown, DollarSign, Truck, Route, TrendingUp, BarChart3, ArrowRight, MapPin, Clock, PackageSearch } from 'lucide-react';
+import { TrendingDown, DollarSign, Truck, Route, TrendingUp, BarChart3, ArrowRight, MapPin, Clock, PackageSearch, CreditCard } from 'lucide-react';
 
 export function Dashboard() {
   const { user } = useAuth();
@@ -94,6 +94,19 @@ export function Dashboard() {
               </div>
             )}
           </CardContent></Card>
+
+        {/* Revenue Widget */}
+        <Card><CardHeader><h2 className="font-semibold text-gray-900 flex items-center gap-2"><CreditCard className="w-4 h-4 text-green-500" /> Revenue</h2></CardHeader>
+          <CardContent className="space-y-2">
+            <div className="flex justify-between text-sm"><span className="text-gray-500">Active Plan</span><Badge status="active" className="bg-blue-100 text-blue-700">Pro</Badge></div>
+            <div className="flex justify-between text-sm"><span className="text-gray-500">Monthly Spend</span><span className="font-medium">{formatCurrency(999)}</span></div>
+            <div className="flex justify-between text-sm"><span className="text-gray-500">Status</span><Badge status="active" className="bg-green-100 text-green-700">Active</Badge></div>
+            <div className="border-t pt-2 mt-2">
+              <Link to="/pricing"><button className="w-full text-sm bg-blue-50 text-blue-700 rounded-lg py-2 font-medium hover:bg-blue-100 transition-colors">Manage Subscription</button></Link>
+            </div>
+            <Link to="/waitlist"><button className="w-full text-sm text-gray-500 hover:text-gray-700 py-1">Refer a fleet →</button></Link>
+          </CardContent></Card>
+
         <Link to="/return-trip"><Card className="bg-gradient-to-r from-orange-500 to-orange-600 hover:from-orange-600 hover:to-orange-700 cursor-pointer"><CardContent className="p-4 flex items-center gap-3 text-white">
           <div className="bg-white/20 rounded-lg p-2"><Route className="w-6 h-6" /></div><div className="flex-1"><p className="font-semibold">Check Return Loads</p><p className="text-sm text-orange-100">3 loads available</p></div><ArrowRight className="w-5 h-5" />
         </CardContent></Card></Link>

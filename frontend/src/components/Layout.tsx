@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { Link, useLocation, useNavigate } from 'react-router-dom';
 import { cn } from '../lib/utils';
 import { useAuth } from '../lib/auth';
-import { LayoutDashboard, Route, MapPin, UserCircle, Bell, Menu, X, ChevronDown, LogOut, Truck, TrendingUp, DollarSign, Search, Sparkles } from 'lucide-react';
+import { LayoutDashboard, Route, MapPin, UserCircle, Bell, Menu, X, ChevronDown, LogOut, Truck, TrendingUp, DollarSign, Search, Sparkles, CreditCard, Users } from 'lucide-react';
 
 const navSections = [
   { label: 'Overview', items: [{ path: '/dashboard', label: 'Dashboard', icon: LayoutDashboard, desc: 'Profit & performance' }] },
@@ -12,6 +12,10 @@ const navSections = [
     { path: '/marketplace', label: 'Load Marketplace', icon: Search, desc: 'Browse & post loads' },
   ]},
   { label: 'Tracking', items: [{ path: '/tracking', label: 'Execution Center', icon: MapPin, desc: 'Active trips & GPS' }] },
+  { label: 'Monetisation', items: [
+    { path: '/pricing', label: 'Pricing & Plans', icon: CreditCard, desc: 'Subscribe via EFT', badge: '💰' },
+    { path: '/waitlist', label: 'Early Access', icon: Users, desc: 'Join waitlist' },
+  ]},
   { label: 'Account', items: [{ path: '/profile', label: 'Profile', icon: UserCircle, desc: 'Company & reputation' }] },
 ];
 
