@@ -24,4 +24,18 @@ export class GPSController {
       res.status(500).json({ error: error.message });
     }
   }
+
+  static async getBatchLatest(req: Request, res: Response) {
+    try {
+      const tripIdsStr = req.query.tripIds as string;
+      if (!tripIdsStr) {
+        return res.status(400).json({ error: 'Missing tripIds parameter' });
+      }
+      const tripIds = tripIdsStr.split(',');
+      const results = await GPSService.getBatchLatest(tripIds);
+      res.json(results);
+    } catch (error: any) {
+      res.status(500).json({ error: error.message });
+    }
+  }
 }

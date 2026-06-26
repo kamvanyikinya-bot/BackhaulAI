@@ -1,5 +1,6 @@
 import { Request, Response } from 'express';
 import { SubscriptionService } from '../services/subscription.service';
+import { EftService } from '../services/eft.service';
 
 export class SubscriptionController {
   static async getPlans(req: Request, res: Response) {
@@ -26,11 +27,22 @@ export class SubscriptionController {
       const userId = (req as any).user.id;
       const { planId } = req.body;
       
+      const plans = await SubscriptionService.getPlans();
+      const plan = plans.find(p => p.id === planId);
+      if (!plan) return res.status(404).json({ error: 'Plan not found' });
+
       // In an EFT-only system, paid plans start as 'pending' until verified.
       const status = 'pending';
       
-      const result = await SubscriptionService.upgrade(userId, planId, status);
-      res.json(result);
+      const sub = await SubscriptionService.upgrade(userId, planId, status);
+      
+      // Initiate EFT payment
+      const paymentInfo = await EftService.initiatePayment(userId, 'subscription', sub.id, plan.price);
+
+      res.json({
+        subscription: sub,
+        payment: paymentInfo
+      });
     } catch (error: any) {
       res.status(500).json({ error: error.message });
     }

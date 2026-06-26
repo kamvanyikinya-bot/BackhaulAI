@@ -1,0 +1,2726 @@
+{
+  "generated_at": "2026-06-26T18:13:28.256724",
+  "total_leads": 160,
+  "leads": [
+    {
+      "id": 101,
+      "name": "Gugu Modise",
+      "city": "Kimberley",
+      "region": "Northern Cape",
+      "truck_type": "flatbed",
+      "typical_routes": [
+        "CPT-PE"
+      ],
+      "primary_corridor": "CPT-PE",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 252,
+      "estimated_monthly_waste_zar": 52167,
+      "estimated_annual_waste_zar": 626011,
+      "onboarding_message": "Hi Gugu Modise, stop driving empty on the CPT-PE corridor. You're losing about R626,011/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "high"
+    },
+    {
+      "id": 102,
+      "name": "Lubabalo Buthelezi",
+      "city": "Bloemfontein",
+      "region": "Free State",
+      "truck_type": "skeletal",
+      "typical_routes": [
+        "DBN-PE"
+      ],
+      "primary_corridor": "DBN-PE",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 141,
+      "estimated_monthly_waste_zar": 29257,
+      "estimated_annual_waste_zar": 351086,
+      "onboarding_message": "Hi Lubabalo Buthelezi, stop driving empty on the DBN-PE corridor. You're losing about R351,086/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "medium"
+    },
+    {
+      "id": 103,
+      "name": "Marius Erasmus",
+      "city": "Pretoria",
+      "region": "Gauteng",
+      "truck_type": "tautliner",
+      "typical_routes": [
+        "JHB-PE"
+      ],
+      "primary_corridor": "JHB-PE",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 319,
+      "estimated_monthly_waste_zar": 65841,
+      "estimated_annual_waste_zar": 790099,
+      "onboarding_message": "Hi Marius Erasmus, stop driving empty on the JHB-PE corridor. You're losing about R790,099/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "high"
+    },
+    {
+      "id": 104,
+      "name": "Marius Erasmus",
+      "city": "Mbombela",
+      "region": "Mpumalanga",
+      "truck_type": "skeletal",
+      "typical_routes": [
+        "JHB-DBN"
+      ],
+      "primary_corridor": "JHB-DBN",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 139,
+      "estimated_monthly_waste_zar": 28741,
+      "estimated_annual_waste_zar": 344894,
+      "onboarding_message": "Hi Marius Erasmus, stop driving empty on the JHB-DBN corridor. You're losing about R344,894/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "medium"
+    },
+    {
+      "id": 105,
+      "name": "Koos Ackerman",
+      "city": "East London",
+      "region": "Eastern Cape",
+      "truck_type": "container",
+      "typical_routes": [
+        "CPT-PE"
+      ],
+      "primary_corridor": "CPT-PE",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 182,
+      "estimated_monthly_waste_zar": 37616,
+      "estimated_annual_waste_zar": 451396,
+      "onboarding_message": "Hi Koos Ackerman, stop driving empty on the CPT-PE corridor. You're losing about R451,396/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "high"
+    },
+    {
+      "id": 106,
+      "name": "Dumi Malan",
+      "city": "Rustenburg",
+      "region": "North West",
+      "truck_type": "tautliner",
+      "typical_routes": [
+        "JHB-EL"
+      ],
+      "primary_corridor": "JHB-EL",
+      "has_empty_return_problem": false,
+      "estimated_weekly_empty_km": 0,
+      "estimated_monthly_waste_zar": 0,
+      "estimated_annual_waste_zar": 0,
+      "onboarding_message": "Hi Dumi Malan, stop driving empty on the JHB-EL corridor. You're losing about R0/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "medium"
+    },
+    {
+      "id": 107,
+      "name": "Gugu Tambo",
+      "city": "Pretoria",
+      "region": "Gauteng",
+      "truck_type": "container",
+      "typical_routes": [
+        "JHB-DBN"
+      ],
+      "primary_corridor": "JHB-DBN",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 136,
+      "estimated_monthly_waste_zar": 28122,
+      "estimated_annual_waste_zar": 337464,
+      "onboarding_message": "Hi Gugu Tambo, stop driving empty on the JHB-DBN corridor. You're losing about R337,464/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "medium"
+    },
+    {
+      "id": 108,
+      "name": "Willem Dlamini",
+      "city": "Pretoria",
+      "region": "Gauteng",
+      "truck_type": "flatbed",
+      "typical_routes": [
+        "JHB-BLOEM"
+      ],
+      "primary_corridor": "JHB-BLOEM",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 109,
+      "estimated_monthly_waste_zar": 22652,
+      "estimated_annual_waste_zar": 271828,
+      "onboarding_message": "Hi Willem Dlamini, stop driving empty on the JHB-BLOEM corridor. You're losing about R271,828/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "medium"
+    },
+    {
+      "id": 109,
+      "name": "Fanie Coetzee",
+      "city": "Vereeniging",
+      "region": "Gauteng",
+      "truck_type": "curtainside",
+      "typical_routes": [
+        "JHB-BLOEM"
+      ],
+      "primary_corridor": "JHB-BLOEM",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 268,
+      "estimated_monthly_waste_zar": 55418,
+      "estimated_annual_waste_zar": 665020,
+      "onboarding_message": "Hi Fanie Coetzee, stop driving empty on the JHB-BLOEM corridor. You're losing about R665,020/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "high"
+    },
+    {
+      "id": 110,
+      "name": "Lubabalo Smith",
+      "city": "Bloemfontein",
+      "region": "Free State",
+      "truck_type": "flatbed",
+      "typical_routes": [
+        "JHB-PE"
+      ],
+      "primary_corridor": "JHB-PE",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 352,
+      "estimated_monthly_waste_zar": 72652,
+      "estimated_annual_waste_zar": 871833,
+      "onboarding_message": "Hi Lubabalo Smith, stop driving empty on the JHB-PE corridor. You're losing about R871,833/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "high"
+    },
+    {
+      "id": 111,
+      "name": "Gugu Maphosa",
+      "city": "Rustenburg",
+      "region": "North West",
+      "truck_type": "skeletal",
+      "typical_routes": [
+        "JHB-DBN"
+      ],
+      "primary_corridor": "JHB-DBN",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 230,
+      "estimated_monthly_waste_zar": 47575,
+      "estimated_annual_waste_zar": 570902,
+      "onboarding_message": "Hi Gugu Maphosa, stop driving empty on the JHB-DBN corridor. You're losing about R570,902/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "high"
+    },
+    {
+      "id": 112,
+      "name": "Hendrik Pillay",
+      "city": "Newcastle",
+      "region": "KwaZulu-Natal",
+      "truck_type": "curtainside",
+      "typical_routes": [
+        "JHB-BLOEM"
+      ],
+      "primary_corridor": "JHB-BLOEM",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 254,
+      "estimated_monthly_waste_zar": 52425,
+      "estimated_annual_waste_zar": 629107,
+      "onboarding_message": "Hi Hendrik Pillay, stop driving empty on the JHB-BLOEM corridor. You're losing about R629,107/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "high"
+    },
+    {
+      "id": 113,
+      "name": "Bongani Steyn",
+      "city": "Newcastle",
+      "region": "KwaZulu-Natal",
+      "truck_type": "refrigerated",
+      "typical_routes": [
+        "DBN-CPT"
+      ],
+      "primary_corridor": "DBN-CPT",
+      "has_empty_return_problem": false,
+      "estimated_weekly_empty_km": 0,
+      "estimated_monthly_waste_zar": 0,
+      "estimated_annual_waste_zar": 0,
+      "onboarding_message": "Hi Bongani Steyn, stop driving empty on the DBN-CPT corridor. You're losing about R0/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "medium"
+    },
+    {
+      "id": 114,
+      "name": "Johan Tambo",
+      "city": "Cape Town",
+      "region": "Western Cape",
+      "truck_type": "refrigerated",
+      "typical_routes": [
+        "CPT-PE"
+      ],
+      "primary_corridor": "CPT-PE",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 365,
+      "estimated_monthly_waste_zar": 75387,
+      "estimated_annual_waste_zar": 904651,
+      "onboarding_message": "Hi Johan Tambo, stop driving empty on the CPT-PE corridor. You're losing about R904,651/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "high"
+    },
+    {
+      "id": 115,
+      "name": "Lindiwe Mbeki",
+      "city": "Port Elizabeth",
+      "region": "Eastern Cape",
+      "truck_type": "flatbed",
+      "typical_routes": [
+        "JHB-DBN"
+      ],
+      "primary_corridor": "JHB-DBN",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 325,
+      "estimated_monthly_waste_zar": 67131,
+      "estimated_annual_waste_zar": 805579,
+      "onboarding_message": "Hi Lindiwe Mbeki, stop driving empty on the JHB-DBN corridor. You're losing about R805,579/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "high"
+    },
+    {
+      "id": 116,
+      "name": "Willem Mokoena",
+      "city": "Vereeniging",
+      "region": "Gauteng",
+      "truck_type": "flatbed",
+      "typical_routes": [
+        "JHB-EL"
+      ],
+      "primary_corridor": "JHB-EL",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 139,
+      "estimated_monthly_waste_zar": 28792,
+      "estimated_annual_waste_zar": 345513,
+      "onboarding_message": "Hi Willem Mokoena, stop driving empty on the JHB-EL corridor. You're losing about R345,513/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "medium"
+    },
+    {
+      "id": 117,
+      "name": "Willem Modise",
+      "city": "Durban",
+      "region": "KwaZulu-Natal",
+      "truck_type": "curtainside",
+      "typical_routes": [
+        "JHB-DBN"
+      ],
+      "primary_corridor": "JHB-DBN",
+      "has_empty_return_problem": false,
+      "estimated_weekly_empty_km": 0,
+      "estimated_monthly_waste_zar": 0,
+      "estimated_annual_waste_zar": 0,
+      "onboarding_message": "Hi Willem Modise, stop driving empty on the JHB-DBN corridor. You're losing about R0/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "medium"
+    },
+    {
+      "id": 118,
+      "name": "Jabulani Naidoo",
+      "city": "Newcastle",
+      "region": "KwaZulu-Natal",
+      "truck_type": "tautliner",
+      "typical_routes": [
+        "DBN-PE"
+      ],
+      "primary_corridor": "DBN-PE",
+      "has_empty_return_problem": false,
+      "estimated_weekly_empty_km": 0,
+      "estimated_monthly_waste_zar": 0,
+      "estimated_annual_waste_zar": 0,
+      "onboarding_message": "Hi Jabulani Naidoo, stop driving empty on the DBN-PE corridor. You're losing about R0/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "medium"
+    },
+    {
+      "id": 119,
+      "name": "Koos Malan",
+      "city": "Kimberley",
+      "region": "Northern Cape",
+      "truck_type": "refrigerated",
+      "typical_routes": [
+        "JHB-CPT"
+      ],
+      "primary_corridor": "JHB-CPT",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 245,
+      "estimated_monthly_waste_zar": 50722,
+      "estimated_annual_waste_zar": 608673,
+      "onboarding_message": "Hi Koos Malan, stop driving empty on the JHB-CPT corridor. You're losing about R608,673/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "high"
+    },
+    {
+      "id": 120,
+      "name": "Sibusiso Du Plessis",
+      "city": "Johannesburg",
+      "region": "Gauteng",
+      "truck_type": "refrigerated",
+      "typical_routes": [
+        "JHB-EL"
+      ],
+      "primary_corridor": "JHB-EL",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 150,
+      "estimated_monthly_waste_zar": 31114,
+      "estimated_annual_waste_zar": 373377,
+      "onboarding_message": "Hi Sibusiso Du Plessis, stop driving empty on the JHB-EL corridor. You're losing about R373,377/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "medium"
+    },
+    {
+      "id": 121,
+      "name": "Xolani Dlamini",
+      "city": "Port Elizabeth",
+      "region": "Eastern Cape",
+      "truck_type": "curtainside",
+      "typical_routes": [
+        "CPT-PE"
+      ],
+      "primary_corridor": "CPT-PE",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 245,
+      "estimated_monthly_waste_zar": 50722,
+      "estimated_annual_waste_zar": 608673,
+      "onboarding_message": "Hi Xolani Dlamini, stop driving empty on the CPT-PE corridor. You're losing about R608,673/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "high"
+    },
+    {
+      "id": 122,
+      "name": "Zuki Pretorius",
+      "city": "Kimberley",
+      "region": "Northern Cape",
+      "truck_type": "flatbed",
+      "typical_routes": [
+        "JHB-CPT"
+      ],
+      "primary_corridor": "JHB-CPT",
+      "has_empty_return_problem": false,
+      "estimated_weekly_empty_km": 0,
+      "estimated_monthly_waste_zar": 0,
+      "estimated_annual_waste_zar": 0,
+      "onboarding_message": "Hi Zuki Pretorius, stop driving empty on the JHB-CPT corridor. You're losing about R0/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "medium"
+    },
+    {
+      "id": 123,
+      "name": "Lindiwe Maphosa",
+      "city": "Vereeniging",
+      "region": "Gauteng",
+      "truck_type": "tautliner",
+      "typical_routes": [
+        "JHB-DBN"
+      ],
+      "primary_corridor": "JHB-DBN",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 180,
+      "estimated_monthly_waste_zar": 37152,
+      "estimated_annual_waste_zar": 445824,
+      "onboarding_message": "Hi Lindiwe Maphosa, stop driving empty on the JHB-DBN corridor. You're losing about R445,824/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "high"
+    },
+    {
+      "id": 124,
+      "name": "Themba Smith",
+      "city": "Newcastle",
+      "region": "KwaZulu-Natal",
+      "truck_type": "container",
+      "typical_routes": [
+        "JHB-EL"
+      ],
+      "primary_corridor": "JHB-EL",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 311,
+      "estimated_monthly_waste_zar": 64293,
+      "estimated_annual_waste_zar": 771523,
+      "onboarding_message": "Hi Themba Smith, stop driving empty on the JHB-EL corridor. You're losing about R771,523/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "high"
+    },
+    {
+      "id": 125,
+      "name": "Fanie Botha",
+      "city": "Port Elizabeth",
+      "region": "Eastern Cape",
+      "truck_type": "skeletal",
+      "typical_routes": [
+        "JHB-EL"
+      ],
+      "primary_corridor": "JHB-EL",
+      "has_empty_return_problem": false,
+      "estimated_weekly_empty_km": 0,
+      "estimated_monthly_waste_zar": 0,
+      "estimated_annual_waste_zar": 0,
+      "onboarding_message": "Hi Fanie Botha, stop driving empty on the JHB-EL corridor. You're losing about R0/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "medium"
+    },
+    {
+      "id": 126,
+      "name": "Koos Ackerman",
+      "city": "Cape Town",
+      "region": "Western Cape",
+      "truck_type": "refrigerated",
+      "typical_routes": [
+        "DBN-CPT"
+      ],
+      "primary_corridor": "DBN-CPT",
+      "has_empty_return_problem": false,
+      "estimated_weekly_empty_km": 0,
+      "estimated_monthly_waste_zar": 0,
+      "estimated_annual_waste_zar": 0,
+      "onboarding_message": "Hi Koos Ackerman, stop driving empty on the DBN-CPT corridor. You're losing about R0/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "medium"
+    },
+    {
+      "id": 127,
+      "name": "Lerato Smit",
+      "city": "East London",
+      "region": "Eastern Cape",
+      "truck_type": "flatbed",
+      "typical_routes": [
+        "JHB-PE"
+      ],
+      "primary_corridor": "JHB-PE",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 255,
+      "estimated_monthly_waste_zar": 52683,
+      "estimated_annual_waste_zar": 632203,
+      "onboarding_message": "Hi Lerato Smit, stop driving empty on the JHB-PE corridor. You're losing about R632,203/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "high"
+    },
+    {
+      "id": 128,
+      "name": "Lerato Meyer",
+      "city": "Polokwane",
+      "region": "Limpopo",
+      "truck_type": "container",
+      "typical_routes": [
+        "DBN-PE"
+      ],
+      "primary_corridor": "DBN-PE",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 201,
+      "estimated_monthly_waste_zar": 41589,
+      "estimated_annual_waste_zar": 499075,
+      "onboarding_message": "Hi Lerato Meyer, stop driving empty on the DBN-PE corridor. You're losing about R499,075/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "high"
+    },
+    {
+      "id": 129,
+      "name": "Barend Lekota",
+      "city": "Kimberley",
+      "region": "Northern Cape",
+      "truck_type": "tautliner",
+      "typical_routes": [
+        "JHB-EL"
+      ],
+      "primary_corridor": "JHB-EL",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 156,
+      "estimated_monthly_waste_zar": 32301,
+      "estimated_annual_waste_zar": 387619,
+      "onboarding_message": "Hi Barend Lekota, stop driving empty on the JHB-EL corridor. You're losing about R387,619/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "medium"
+    },
+    {
+      "id": 130,
+      "name": "Andries Van der Merwe",
+      "city": "Cape Town",
+      "region": "Western Cape",
+      "truck_type": "tautliner",
+      "typical_routes": [
+        "JHB-CPT"
+      ],
+      "primary_corridor": "JHB-CPT",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 229,
+      "estimated_monthly_waste_zar": 47317,
+      "estimated_annual_waste_zar": 567806,
+      "onboarding_message": "Hi Andries Van der Merwe, stop driving empty on the JHB-CPT corridor. You're losing about R567,806/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "high"
+    },
+    {
+      "id": 131,
+      "name": "Mandla Pretorius",
+      "city": "Port Elizabeth",
+      "region": "Eastern Cape",
+      "truck_type": "flatbed",
+      "typical_routes": [
+        "DBN-CPT"
+      ],
+      "primary_corridor": "DBN-CPT",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 238,
+      "estimated_monthly_waste_zar": 49226,
+      "estimated_annual_waste_zar": 590716,
+      "onboarding_message": "Hi Mandla Pretorius, stop driving empty on the DBN-CPT corridor. You're losing about R590,716/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "high"
+    },
+    {
+      "id": 132,
+      "name": "Ayanda Erasmus",
+      "city": "East London",
+      "region": "Eastern Cape",
+      "truck_type": "curtainside",
+      "typical_routes": [
+        "JHB-DBN"
+      ],
+      "primary_corridor": "JHB-DBN",
+      "has_empty_return_problem": false,
+      "estimated_weekly_empty_km": 0,
+      "estimated_monthly_waste_zar": 0,
+      "estimated_annual_waste_zar": 0,
+      "onboarding_message": "Hi Ayanda Erasmus, stop driving empty on the JHB-DBN corridor. You're losing about R0/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "medium"
+    },
+    {
+      "id": 133,
+      "name": "Xolani Botha",
+      "city": "Polokwane",
+      "region": "Limpopo",
+      "truck_type": "flatbed",
+      "typical_routes": [
+        "JHB-CPT"
+      ],
+      "primary_corridor": "JHB-CPT",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 310,
+      "estimated_monthly_waste_zar": 64138,
+      "estimated_annual_waste_zar": 769665,
+      "onboarding_message": "Hi Xolani Botha, stop driving empty on the JHB-CPT corridor. You're losing about R769,665/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "high"
+    },
+    {
+      "id": 134,
+      "name": "Jabulani Botha",
+      "city": "Kimberley",
+      "region": "Northern Cape",
+      "truck_type": "skeletal",
+      "typical_routes": [
+        "JHB-CPT"
+      ],
+      "primary_corridor": "JHB-CPT",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 273,
+      "estimated_monthly_waste_zar": 56450,
+      "estimated_annual_waste_zar": 677404,
+      "onboarding_message": "Hi Jabulani Botha, stop driving empty on the JHB-CPT corridor. You're losing about R677,404/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "high"
+    },
+    {
+      "id": 135,
+      "name": "Lerato Joubert",
+      "city": "East London",
+      "region": "Eastern Cape",
+      "truck_type": "tautliner",
+      "typical_routes": [
+        "JHB-EL"
+      ],
+      "primary_corridor": "JHB-EL",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 154,
+      "estimated_monthly_waste_zar": 31888,
+      "estimated_annual_waste_zar": 382665,
+      "onboarding_message": "Hi Lerato Joubert, stop driving empty on the JHB-EL corridor. You're losing about R382,665/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "medium"
+    },
+    {
+      "id": 136,
+      "name": "Zuki Botha",
+      "city": "Durban",
+      "region": "KwaZulu-Natal",
+      "truck_type": "curtainside",
+      "typical_routes": [
+        "JHB-DBN"
+      ],
+      "primary_corridor": "JHB-DBN",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 134,
+      "estimated_monthly_waste_zar": 27657,
+      "estimated_annual_waste_zar": 331891,
+      "onboarding_message": "Hi Zuki Botha, stop driving empty on the JHB-DBN corridor. You're losing about R331,891/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "medium"
+    },
+    {
+      "id": 137,
+      "name": "Gugu Mokoena",
+      "city": "Pretoria",
+      "region": "Gauteng",
+      "truck_type": "container",
+      "typical_routes": [
+        "JHB-DBN"
+      ],
+      "primary_corridor": "JHB-DBN",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 170,
+      "estimated_monthly_waste_zar": 35191,
+      "estimated_annual_waste_zar": 422294,
+      "onboarding_message": "Hi Gugu Mokoena, stop driving empty on the JHB-DBN corridor. You're losing about R422,294/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "high"
+    },
+    {
+      "id": 138,
+      "name": "Pieter Mokoena",
+      "city": "Rustenburg",
+      "region": "North West",
+      "truck_type": "container",
+      "typical_routes": [
+        "JHB-PE"
+      ],
+      "primary_corridor": "JHB-PE",
+      "has_empty_return_problem": false,
+      "estimated_weekly_empty_km": 0,
+      "estimated_monthly_waste_zar": 0,
+      "estimated_annual_waste_zar": 0,
+      "onboarding_message": "Hi Pieter Mokoena, stop driving empty on the JHB-PE corridor. You're losing about R0/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "medium"
+    },
+    {
+      "id": 139,
+      "name": "Lerato Botha",
+      "city": "Kimberley",
+      "region": "Northern Cape",
+      "truck_type": "container",
+      "typical_routes": [
+        "JHB-CPT"
+      ],
+      "primary_corridor": "JHB-CPT",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 361,
+      "estimated_monthly_waste_zar": 74510,
+      "estimated_annual_waste_zar": 894124,
+      "onboarding_message": "Hi Lerato Botha, stop driving empty on the JHB-CPT corridor. You're losing about R894,124/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "high"
+    },
+    {
+      "id": 140,
+      "name": "Willem Ackerman",
+      "city": "Johannesburg",
+      "region": "Gauteng",
+      "truck_type": "curtainside",
+      "typical_routes": [
+        "JHB-CPT"
+      ],
+      "primary_corridor": "JHB-CPT",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 330,
+      "estimated_monthly_waste_zar": 68163,
+      "estimated_annual_waste_zar": 817963,
+      "onboarding_message": "Hi Willem Ackerman, stop driving empty on the JHB-CPT corridor. You're losing about R817,963/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "high"
+    },
+    {
+      "id": 141,
+      "name": "Marius Van der Merwe",
+      "city": "Cape Town",
+      "region": "Western Cape",
+      "truck_type": "refrigerated",
+      "typical_routes": [
+        "JHB-PE"
+      ],
+      "primary_corridor": "JHB-PE",
+      "has_empty_return_problem": false,
+      "estimated_weekly_empty_km": 0,
+      "estimated_monthly_waste_zar": 0,
+      "estimated_annual_waste_zar": 0,
+      "onboarding_message": "Hi Marius Van der Merwe, stop driving empty on the JHB-PE corridor. You're losing about R0/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "medium"
+    },
+    {
+      "id": 142,
+      "name": "Thabo Ndlovu",
+      "city": "George",
+      "region": "Western Cape",
+      "truck_type": "flatbed",
+      "typical_routes": [
+        "JHB-BLOEM"
+      ],
+      "primary_corridor": "JHB-BLOEM",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 132,
+      "estimated_monthly_waste_zar": 27348,
+      "estimated_annual_waste_zar": 328176,
+      "onboarding_message": "Hi Thabo Ndlovu, stop driving empty on the JHB-BLOEM corridor. You're losing about R328,176/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "medium"
+    },
+    {
+      "id": 143,
+      "name": "Zanele Mbeki",
+      "city": "Johannesburg",
+      "region": "Gauteng",
+      "truck_type": "container",
+      "typical_routes": [
+        "JHB-CPT"
+      ],
+      "primary_corridor": "JHB-CPT",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 82,
+      "estimated_monthly_waste_zar": 16976,
+      "estimated_annual_waste_zar": 203716,
+      "onboarding_message": "Hi Zanele Mbeki, stop driving empty on the JHB-CPT corridor. You're losing about R203,716/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "medium"
+    },
+    {
+      "id": 144,
+      "name": "Lubabalo Joubert",
+      "city": "George",
+      "region": "Western Cape",
+      "truck_type": "skeletal",
+      "typical_routes": [
+        "JHB-BLOEM"
+      ],
+      "primary_corridor": "JHB-BLOEM",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 260,
+      "estimated_monthly_waste_zar": 53664,
+      "estimated_annual_waste_zar": 643968,
+      "onboarding_message": "Hi Lubabalo Joubert, stop driving empty on the JHB-BLOEM corridor. You're losing about R643,968/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "high"
+    },
+    {
+      "id": 145,
+      "name": "Lindiwe Erasmus",
+      "city": "Johannesburg",
+      "region": "Gauteng",
+      "truck_type": "tautliner",
+      "typical_routes": [
+        "JHB-BLOEM"
+      ],
+      "primary_corridor": "JHB-BLOEM",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 79,
+      "estimated_monthly_waste_zar": 16460,
+      "estimated_annual_waste_zar": 197524,
+      "onboarding_message": "Hi Lindiwe Erasmus, stop driving empty on the JHB-BLOEM corridor. You're losing about R197,524/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "medium"
+    },
+    {
+      "id": 146,
+      "name": "Lerato Ndlovu",
+      "city": "East London",
+      "region": "Eastern Cape",
+      "truck_type": "skeletal",
+      "typical_routes": [
+        "JHB-CPT"
+      ],
+      "primary_corridor": "JHB-CPT",
+      "has_empty_return_problem": false,
+      "estimated_weekly_empty_km": 0,
+      "estimated_monthly_waste_zar": 0,
+      "estimated_annual_waste_zar": 0,
+      "onboarding_message": "Hi Lerato Ndlovu, stop driving empty on the JHB-CPT corridor. You're losing about R0/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "medium"
+    },
+    {
+      "id": 147,
+      "name": "Zanele Erasmus",
+      "city": "Johannesburg",
+      "region": "Gauteng",
+      "truck_type": "container",
+      "typical_routes": [
+        "DBN-PE"
+      ],
+      "primary_corridor": "DBN-PE",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 114,
+      "estimated_monthly_waste_zar": 23529,
+      "estimated_annual_waste_zar": 282355,
+      "onboarding_message": "Hi Zanele Erasmus, stop driving empty on the DBN-PE corridor. You're losing about R282,355/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "medium"
+    },
+    {
+      "id": 148,
+      "name": "Lindiwe Khumalo",
+      "city": "Mbombela",
+      "region": "Mpumalanga",
+      "truck_type": "flatbed",
+      "typical_routes": [
+        "JHB-CPT"
+      ],
+      "primary_corridor": "JHB-CPT",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 161,
+      "estimated_monthly_waste_zar": 33230,
+      "estimated_annual_waste_zar": 398764,
+      "onboarding_message": "Hi Lindiwe Khumalo, stop driving empty on the JHB-CPT corridor. You're losing about R398,764/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "medium"
+    },
+    {
+      "id": 149,
+      "name": "Sipho Sisulu",
+      "city": "Pretoria",
+      "region": "Gauteng",
+      "truck_type": "curtainside",
+      "typical_routes": [
+        "JHB-CPT"
+      ],
+      "primary_corridor": "JHB-CPT",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 287,
+      "estimated_monthly_waste_zar": 59236,
+      "estimated_annual_waste_zar": 710841,
+      "onboarding_message": "Hi Sipho Sisulu, stop driving empty on the JHB-CPT corridor. You're losing about R710,841/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "high"
+    },
+    {
+      "id": 150,
+      "name": "Gugu Coetzee",
+      "city": "Newcastle",
+      "region": "KwaZulu-Natal",
+      "truck_type": "container",
+      "typical_routes": [
+        "JHB-CPT"
+      ],
+      "primary_corridor": "JHB-CPT",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 334,
+      "estimated_monthly_waste_zar": 69040,
+      "estimated_annual_waste_zar": 828489,
+      "onboarding_message": "Hi Gugu Coetzee, stop driving empty on the JHB-CPT corridor. You're losing about R828,489/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "high"
+    },
+    {
+      "id": 151,
+      "name": "Hendrik Pillay",
+      "city": "Pretoria",
+      "region": "Gauteng",
+      "truck_type": "flatbed",
+      "typical_routes": [
+        "JHB-PE"
+      ],
+      "primary_corridor": "JHB-PE",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 326,
+      "estimated_monthly_waste_zar": 67389,
+      "estimated_annual_waste_zar": 808675,
+      "onboarding_message": "Hi Hendrik Pillay, stop driving empty on the JHB-PE corridor. You're losing about R808,675/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "high"
+    },
+    {
+      "id": 152,
+      "name": "Pieter Ramaphosa",
+      "city": "Polokwane",
+      "region": "Limpopo",
+      "truck_type": "container",
+      "typical_routes": [
+        "JHB-DBN"
+      ],
+      "primary_corridor": "JHB-DBN",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 182,
+      "estimated_monthly_waste_zar": 37616,
+      "estimated_annual_waste_zar": 451396,
+      "onboarding_message": "Hi Pieter Ramaphosa, stop driving empty on the JHB-DBN corridor. You're losing about R451,396/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "high"
+    },
+    {
+      "id": 153,
+      "name": "Marius Khumalo",
+      "city": "Vereeniging",
+      "region": "Gauteng",
+      "truck_type": "refrigerated",
+      "typical_routes": [
+        "JHB-DBN"
+      ],
+      "primary_corridor": "JHB-DBN",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 206,
+      "estimated_monthly_waste_zar": 42673,
+      "estimated_annual_waste_zar": 512078,
+      "onboarding_message": "Hi Marius Khumalo, stop driving empty on the JHB-DBN corridor. You're losing about R512,078/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "high"
+    },
+    {
+      "id": 154,
+      "name": "Zuki Steyn",
+      "city": "George",
+      "region": "Western Cape",
+      "truck_type": "refrigerated",
+      "typical_routes": [
+        "JHB-CPT"
+      ],
+      "primary_corridor": "JHB-CPT",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 178,
+      "estimated_monthly_waste_zar": 36842,
+      "estimated_annual_waste_zar": 442108,
+      "onboarding_message": "Hi Zuki Steyn, stop driving empty on the JHB-CPT corridor. You're losing about R442,108/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "high"
+    },
+    {
+      "id": 155,
+      "name": "Themba Tambo",
+      "city": "Vereeniging",
+      "region": "Gauteng",
+      "truck_type": "container",
+      "typical_routes": [
+        "JHB-PE"
+      ],
+      "primary_corridor": "JHB-PE",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 308,
+      "estimated_monthly_waste_zar": 63622,
+      "estimated_annual_waste_zar": 763473,
+      "onboarding_message": "Hi Themba Tambo, stop driving empty on the JHB-PE corridor. You're losing about R763,473/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "high"
+    },
+    {
+      "id": 156,
+      "name": "Sibusiso Ramaphosa",
+      "city": "East London",
+      "region": "Eastern Cape",
+      "truck_type": "refrigerated",
+      "typical_routes": [
+        "JHB-DBN"
+      ],
+      "primary_corridor": "JHB-DBN",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 128,
+      "estimated_monthly_waste_zar": 26470,
+      "estimated_annual_waste_zar": 317649,
+      "onboarding_message": "Hi Sibusiso Ramaphosa, stop driving empty on the JHB-DBN corridor. You're losing about R317,649/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "medium"
+    },
+    {
+      "id": 157,
+      "name": "Xolani Erasmus",
+      "city": "Durban",
+      "region": "KwaZulu-Natal",
+      "truck_type": "flatbed",
+      "typical_routes": [
+        "JHB-CPT"
+      ],
+      "primary_corridor": "JHB-CPT",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 164,
+      "estimated_monthly_waste_zar": 33849,
+      "estimated_annual_waste_zar": 406195,
+      "onboarding_message": "Hi Xolani Erasmus, stop driving empty on the JHB-CPT corridor. You're losing about R406,195/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "high"
+    },
+    {
+      "id": 158,
+      "name": "Fanie Du Plessis",
+      "city": "Bloemfontein",
+      "region": "Free State",
+      "truck_type": "flatbed",
+      "typical_routes": [
+        "JHB-EL"
+      ],
+      "primary_corridor": "JHB-EL",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 170,
+      "estimated_monthly_waste_zar": 35088,
+      "estimated_annual_waste_zar": 421056,
+      "onboarding_message": "Hi Fanie Du Plessis, stop driving empty on the JHB-EL corridor. You're losing about R421,056/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "high"
+    },
+    {
+      "id": 159,
+      "name": "Johan Modise",
+      "city": "Polokwane",
+      "region": "Limpopo",
+      "truck_type": "container",
+      "typical_routes": [
+        "DBN-CPT"
+      ],
+      "primary_corridor": "DBN-CPT",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 154,
+      "estimated_monthly_waste_zar": 31888,
+      "estimated_annual_waste_zar": 382665,
+      "onboarding_message": "Hi Johan Modise, stop driving empty on the DBN-CPT corridor. You're losing about R382,665/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "medium"
+    },
+    {
+      "id": 160,
+      "name": "Koos Ndlovu",
+      "city": "Cape Town",
+      "region": "Western Cape",
+      "truck_type": "refrigerated",
+      "typical_routes": [
+        "JHB-BLOEM"
+      ],
+      "primary_corridor": "JHB-BLOEM",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 227,
+      "estimated_monthly_waste_zar": 46852,
+      "estimated_annual_waste_zar": 562233,
+      "onboarding_message": "Hi Koos Ndlovu, stop driving empty on the JHB-BLOEM corridor. You're losing about R562,233/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "high"
+    },
+    {
+      "id": 161,
+      "name": "Kagiso Erasmus",
+      "city": "Mbombela",
+      "region": "Mpumalanga",
+      "truck_type": "curtainside",
+      "typical_routes": [
+        "JHB-PE"
+      ],
+      "primary_corridor": "JHB-PE",
+      "has_empty_return_problem": false,
+      "estimated_weekly_empty_km": 0,
+      "estimated_monthly_waste_zar": 0,
+      "estimated_annual_waste_zar": 0,
+      "onboarding_message": "Hi Kagiso Erasmus, stop driving empty on the JHB-PE corridor. You're losing about R0/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "medium"
+    },
+    {
+      "id": 162,
+      "name": "Koos Mokoena",
+      "city": "Bloemfontein",
+      "region": "Free State",
+      "truck_type": "container",
+      "typical_routes": [
+        "JHB-DBN"
+      ],
+      "primary_corridor": "JHB-DBN",
+      "has_empty_return_problem": false,
+      "estimated_weekly_empty_km": 0,
+      "estimated_monthly_waste_zar": 0,
+      "estimated_annual_waste_zar": 0,
+      "onboarding_message": "Hi Koos Mokoena, stop driving empty on the JHB-DBN corridor. You're losing about R0/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "medium"
+    },
+    {
+      "id": 163,
+      "name": "Gert Ramaphosa",
+      "city": "Polokwane",
+      "region": "Limpopo",
+      "truck_type": "curtainside",
+      "typical_routes": [
+        "JHB-EL"
+      ],
+      "primary_corridor": "JHB-EL",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 366,
+      "estimated_monthly_waste_zar": 75594,
+      "estimated_annual_waste_zar": 907128,
+      "onboarding_message": "Hi Gert Ramaphosa, stop driving empty on the JHB-EL corridor. You're losing about R907,128/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "high"
+    },
+    {
+      "id": 164,
+      "name": "Palesa Zuma",
+      "city": "Port Elizabeth",
+      "region": "Eastern Cape",
+      "truck_type": "skeletal",
+      "typical_routes": [
+        "JHB-EL"
+      ],
+      "primary_corridor": "JHB-EL",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 282,
+      "estimated_monthly_waste_zar": 58359,
+      "estimated_annual_waste_zar": 700315,
+      "onboarding_message": "Hi Palesa Zuma, stop driving empty on the JHB-EL corridor. You're losing about R700,315/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "high"
+    },
+    {
+      "id": 165,
+      "name": "Hendrik Modise",
+      "city": "Johannesburg",
+      "region": "Gauteng",
+      "truck_type": "refrigerated",
+      "typical_routes": [
+        "DBN-PE"
+      ],
+      "primary_corridor": "DBN-PE",
+      "has_empty_return_problem": false,
+      "estimated_weekly_empty_km": 0,
+      "estimated_monthly_waste_zar": 0,
+      "estimated_annual_waste_zar": 0,
+      "onboarding_message": "Hi Hendrik Modise, stop driving empty on the DBN-PE corridor. You're losing about R0/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "medium"
+    },
+    {
+      "id": 166,
+      "name": "Marius Modise",
+      "city": "Bloemfontein",
+      "region": "Free State",
+      "truck_type": "container",
+      "typical_routes": [
+        "JHB-CPT"
+      ],
+      "primary_corridor": "JHB-CPT",
+      "has_empty_return_problem": false,
+      "estimated_weekly_empty_km": 0,
+      "estimated_monthly_waste_zar": 0,
+      "estimated_annual_waste_zar": 0,
+      "onboarding_message": "Hi Marius Modise, stop driving empty on the JHB-CPT corridor. You're losing about R0/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "medium"
+    },
+    {
+      "id": 167,
+      "name": "Pieter Maphosa",
+      "city": "Pietermaritzburg",
+      "region": "KwaZulu-Natal",
+      "truck_type": "skeletal",
+      "typical_routes": [
+        "CPT-PE"
+      ],
+      "primary_corridor": "CPT-PE",
+      "has_empty_return_problem": false,
+      "estimated_weekly_empty_km": 0,
+      "estimated_monthly_waste_zar": 0,
+      "estimated_annual_waste_zar": 0,
+      "onboarding_message": "Hi Pieter Maphosa, stop driving empty on the CPT-PE corridor. You're losing about R0/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "medium"
+    },
+    {
+      "id": 168,
+      "name": "Bongani Lekota",
+      "city": "Kimberley",
+      "region": "Northern Cape",
+      "truck_type": "container",
+      "typical_routes": [
+        "DBN-CPT"
+      ],
+      "primary_corridor": "DBN-CPT",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 92,
+      "estimated_monthly_waste_zar": 19143,
+      "estimated_annual_waste_zar": 229723,
+      "onboarding_message": "Hi Bongani Lekota, stop driving empty on the DBN-CPT corridor. You're losing about R229,723/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "medium"
+    },
+    {
+      "id": 169,
+      "name": "Bongani Van der Merwe",
+      "city": "Rustenburg",
+      "region": "North West",
+      "truck_type": "container",
+      "typical_routes": [
+        "JHB-CPT"
+      ],
+      "primary_corridor": "JHB-CPT",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 296,
+      "estimated_monthly_waste_zar": 61146,
+      "estimated_annual_waste_zar": 733752,
+      "onboarding_message": "Hi Bongani Van der Merwe, stop driving empty on the JHB-CPT corridor. You're losing about R733,752/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "high"
+    },
+    {
+      "id": 170,
+      "name": "Gugu Sibanda",
+      "city": "Rustenburg",
+      "region": "North West",
+      "truck_type": "skeletal",
+      "typical_routes": [
+        "JHB-PE"
+      ],
+      "primary_corridor": "JHB-PE",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 348,
+      "estimated_monthly_waste_zar": 71827,
+      "estimated_annual_waste_zar": 861926,
+      "onboarding_message": "Hi Gugu Sibanda, stop driving empty on the JHB-PE corridor. You're losing about R861,926/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "high"
+    },
+    {
+      "id": 171,
+      "name": "Johan Sisulu",
+      "city": "Pietermaritzburg",
+      "region": "KwaZulu-Natal",
+      "truck_type": "container",
+      "typical_routes": [
+        "JHB-CPT"
+      ],
+      "primary_corridor": "JHB-CPT",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 366,
+      "estimated_monthly_waste_zar": 75542,
+      "estimated_annual_waste_zar": 906508,
+      "onboarding_message": "Hi Johan Sisulu, stop driving empty on the JHB-CPT corridor. You're losing about R906,508/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "high"
+    },
+    {
+      "id": 172,
+      "name": "Themba Coetzee",
+      "city": "Cape Town",
+      "region": "Western Cape",
+      "truck_type": "tautliner",
+      "typical_routes": [
+        "JHB-DBN"
+      ],
+      "primary_corridor": "JHB-DBN",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 76,
+      "estimated_monthly_waste_zar": 15738,
+      "estimated_annual_waste_zar": 188856,
+      "onboarding_message": "Hi Themba Coetzee, stop driving empty on the JHB-DBN corridor. You're losing about R188,856/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "medium"
+    },
+    {
+      "id": 173,
+      "name": "Gugu Naidoo",
+      "city": "Rustenburg",
+      "region": "North West",
+      "truck_type": "skeletal",
+      "typical_routes": [
+        "JHB-CPT"
+      ],
+      "primary_corridor": "JHB-CPT",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 212,
+      "estimated_monthly_waste_zar": 43808,
+      "estimated_annual_waste_zar": 525700,
+      "onboarding_message": "Hi Gugu Naidoo, stop driving empty on the JHB-CPT corridor. You're losing about R525,700/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "high"
+    },
+    {
+      "id": 174,
+      "name": "Nkosazana Buthelezi",
+      "city": "Pietermaritzburg",
+      "region": "KwaZulu-Natal",
+      "truck_type": "flatbed",
+      "typical_routes": [
+        "CPT-PE"
+      ],
+      "primary_corridor": "CPT-PE",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 246,
+      "estimated_monthly_waste_zar": 50774,
+      "estimated_annual_waste_zar": 609292,
+      "onboarding_message": "Hi Nkosazana Buthelezi, stop driving empty on the CPT-PE corridor. You're losing about R609,292/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "high"
+    },
+    {
+      "id": 175,
+      "name": "Themba Mokoena",
+      "city": "Johannesburg",
+      "region": "Gauteng",
+      "truck_type": "flatbed",
+      "typical_routes": [
+        "JHB-EL"
+      ],
+      "primary_corridor": "JHB-EL",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 357,
+      "estimated_monthly_waste_zar": 73788,
+      "estimated_annual_waste_zar": 885456,
+      "onboarding_message": "Hi Themba Mokoena, stop driving empty on the JHB-EL corridor. You're losing about R885,456/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "high"
+    },
+    {
+      "id": 176,
+      "name": "Johan Dlamini",
+      "city": "George",
+      "region": "Western Cape",
+      "truck_type": "container",
+      "typical_routes": [
+        "JHB-EL"
+      ],
+      "primary_corridor": "JHB-EL",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 331,
+      "estimated_monthly_waste_zar": 68318,
+      "estimated_annual_waste_zar": 819820,
+      "onboarding_message": "Hi Johan Dlamini, stop driving empty on the JHB-EL corridor. You're losing about R819,820/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "high"
+    },
+    {
+      "id": 177,
+      "name": "Gugu Pretorius",
+      "city": "Kimberley",
+      "region": "Northern Cape",
+      "truck_type": "refrigerated",
+      "typical_routes": [
+        "JHB-BLOEM"
+      ],
+      "primary_corridor": "JHB-BLOEM",
+      "has_empty_return_problem": false,
+      "estimated_weekly_empty_km": 0,
+      "estimated_monthly_waste_zar": 0,
+      "estimated_annual_waste_zar": 0,
+      "onboarding_message": "Hi Gugu Pretorius, stop driving empty on the JHB-BLOEM corridor. You're losing about R0/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "medium"
+    },
+    {
+      "id": 178,
+      "name": "Thabo Smith",
+      "city": "Kimberley",
+      "region": "Northern Cape",
+      "truck_type": "skeletal",
+      "typical_routes": [
+        "JHB-DBN"
+      ],
+      "primary_corridor": "JHB-DBN",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 147,
+      "estimated_monthly_waste_zar": 30444,
+      "estimated_annual_waste_zar": 365328,
+      "onboarding_message": "Hi Thabo Smith, stop driving empty on the JHB-DBN corridor. You're losing about R365,328/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "medium"
+    },
+    {
+      "id": 179,
+      "name": "Nkosazana Erasmus",
+      "city": "Pietermaritzburg",
+      "region": "KwaZulu-Natal",
+      "truck_type": "container",
+      "typical_routes": [
+        "JHB-DBN"
+      ],
+      "primary_corridor": "JHB-DBN",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 118,
+      "estimated_monthly_waste_zar": 24510,
+      "estimated_annual_waste_zar": 294120,
+      "onboarding_message": "Hi Nkosazana Erasmus, stop driving empty on the JHB-DBN corridor. You're losing about R294,120/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "medium"
+    },
+    {
+      "id": 180,
+      "name": "Dumi Ackerman",
+      "city": "Rustenburg",
+      "region": "North West",
+      "truck_type": "tautliner",
+      "typical_routes": [
+        "JHB-DBN"
+      ],
+      "primary_corridor": "JHB-DBN",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 181,
+      "estimated_monthly_waste_zar": 37461,
+      "estimated_annual_waste_zar": 449539,
+      "onboarding_message": "Hi Dumi Ackerman, stop driving empty on the JHB-DBN corridor. You're losing about R449,539/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "high"
+    },
+    {
+      "id": 181,
+      "name": "Bongani Sisulu",
+      "city": "Johannesburg",
+      "region": "Gauteng",
+      "truck_type": "tautliner",
+      "typical_routes": [
+        "DBN-PE"
+      ],
+      "primary_corridor": "DBN-PE",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 117,
+      "estimated_monthly_waste_zar": 24303,
+      "estimated_annual_waste_zar": 291643,
+      "onboarding_message": "Hi Bongani Sisulu, stop driving empty on the DBN-PE corridor. You're losing about R291,643/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "medium"
+    },
+    {
+      "id": 182,
+      "name": "Sipho Mokoena",
+      "city": "Pretoria",
+      "region": "Gauteng",
+      "truck_type": "refrigerated",
+      "typical_routes": [
+        "JHB-EL"
+      ],
+      "primary_corridor": "JHB-EL",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 229,
+      "estimated_monthly_waste_zar": 47368,
+      "estimated_annual_waste_zar": 568425,
+      "onboarding_message": "Hi Sipho Mokoena, stop driving empty on the JHB-EL corridor. You're losing about R568,425/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "high"
+    },
+    {
+      "id": 183,
+      "name": "Zuki Malan",
+      "city": "Cape Town",
+      "region": "Western Cape",
+      "truck_type": "tautliner",
+      "typical_routes": [
+        "JHB-DBN"
+      ],
+      "primary_corridor": "JHB-DBN",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 140,
+      "estimated_monthly_waste_zar": 28999,
+      "estimated_annual_waste_zar": 347990,
+      "onboarding_message": "Hi Zuki Malan, stop driving empty on the JHB-DBN corridor. You're losing about R347,990/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "medium"
+    },
+    {
+      "id": 184,
+      "name": "Marius Lekota",
+      "city": "Pietermaritzburg",
+      "region": "KwaZulu-Natal",
+      "truck_type": "container",
+      "typical_routes": [
+        "JHB-CPT"
+      ],
+      "primary_corridor": "JHB-CPT",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 149,
+      "estimated_monthly_waste_zar": 30908,
+      "estimated_annual_waste_zar": 370900,
+      "onboarding_message": "Hi Marius Lekota, stop driving empty on the JHB-CPT corridor. You're losing about R370,900/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "medium"
+    },
+    {
+      "id": 185,
+      "name": "Nkosazana Khumalo",
+      "city": "East London",
+      "region": "Eastern Cape",
+      "truck_type": "flatbed",
+      "typical_routes": [
+        "JHB-DBN"
+      ],
+      "primary_corridor": "JHB-DBN",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 134,
+      "estimated_monthly_waste_zar": 27657,
+      "estimated_annual_waste_zar": 331891,
+      "onboarding_message": "Hi Nkosazana Khumalo, stop driving empty on the JHB-DBN corridor. You're losing about R331,891/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "medium"
+    },
+    {
+      "id": 186,
+      "name": "Bongani Du Plessis",
+      "city": "East London",
+      "region": "Eastern Cape",
+      "truck_type": "skeletal",
+      "typical_routes": [
+        "JHB-DBN"
+      ],
+      "primary_corridor": "JHB-DBN",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 132,
+      "estimated_monthly_waste_zar": 27399,
+      "estimated_annual_waste_zar": 328795,
+      "onboarding_message": "Hi Bongani Du Plessis, stop driving empty on the JHB-DBN corridor. You're losing about R328,795/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "medium"
+    },
+    {
+      "id": 187,
+      "name": "Lindiwe Khumalo",
+      "city": "Johannesburg",
+      "region": "Gauteng",
+      "truck_type": "curtainside",
+      "typical_routes": [
+        "JHB-CPT"
+      ],
+      "primary_corridor": "JHB-CPT",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 313,
+      "estimated_monthly_waste_zar": 64654,
+      "estimated_annual_waste_zar": 775857,
+      "onboarding_message": "Hi Lindiwe Khumalo, stop driving empty on the JHB-CPT corridor. You're losing about R775,857/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "high"
+    },
+    {
+      "id": 188,
+      "name": "Gugu Sibanda",
+      "city": "Newcastle",
+      "region": "KwaZulu-Natal",
+      "truck_type": "skeletal",
+      "typical_routes": [
+        "DBN-CPT"
+      ],
+      "primary_corridor": "DBN-CPT",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 214,
+      "estimated_monthly_waste_zar": 44324,
+      "estimated_annual_waste_zar": 531892,
+      "onboarding_message": "Hi Gugu Sibanda, stop driving empty on the DBN-CPT corridor. You're losing about R531,892/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "high"
+    },
+    {
+      "id": 189,
+      "name": "Pieter Joubert",
+      "city": "Pietermaritzburg",
+      "region": "KwaZulu-Natal",
+      "truck_type": "refrigerated",
+      "typical_routes": [
+        "DBN-PE"
+      ],
+      "primary_corridor": "DBN-PE",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 268,
+      "estimated_monthly_waste_zar": 55366,
+      "estimated_annual_waste_zar": 664401,
+      "onboarding_message": "Hi Pieter Joubert, stop driving empty on the DBN-PE corridor. You're losing about R664,401/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "high"
+    },
+    {
+      "id": 190,
+      "name": "Zanele Ndlovu",
+      "city": "Newcastle",
+      "region": "KwaZulu-Natal",
+      "truck_type": "skeletal",
+      "typical_routes": [
+        "JHB-BLOEM"
+      ],
+      "primary_corridor": "JHB-BLOEM",
+      "has_empty_return_problem": false,
+      "estimated_weekly_empty_km": 0,
+      "estimated_monthly_waste_zar": 0,
+      "estimated_annual_waste_zar": 0,
+      "onboarding_message": "Hi Zanele Ndlovu, stop driving empty on the JHB-BLOEM corridor. You're losing about R0/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "medium"
+    },
+    {
+      "id": 191,
+      "name": "Fanie De Klerk",
+      "city": "Mbombela",
+      "region": "Mpumalanga",
+      "truck_type": "tautliner",
+      "typical_routes": [
+        "DBN-PE"
+      ],
+      "primary_corridor": "DBN-PE",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 149,
+      "estimated_monthly_waste_zar": 30753,
+      "estimated_annual_waste_zar": 369043,
+      "onboarding_message": "Hi Fanie De Klerk, stop driving empty on the DBN-PE corridor. You're losing about R369,043/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "medium"
+    },
+    {
+      "id": 192,
+      "name": "Fanie Van der Merwe",
+      "city": "Rustenburg",
+      "region": "North West",
+      "truck_type": "tautliner",
+      "typical_routes": [
+        "CPT-PE"
+      ],
+      "primary_corridor": "CPT-PE",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 188,
+      "estimated_monthly_waste_zar": 38906,
+      "estimated_annual_waste_zar": 466876,
+      "onboarding_message": "Hi Fanie Van der Merwe, stop driving empty on the CPT-PE corridor. You're losing about R466,876/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "high"
+    },
+    {
+      "id": 193,
+      "name": "Andries Ackerman",
+      "city": "George",
+      "region": "Western Cape",
+      "truck_type": "skeletal",
+      "typical_routes": [
+        "JHB-PE"
+      ],
+      "primary_corridor": "JHB-PE",
+      "has_empty_return_problem": false,
+      "estimated_weekly_empty_km": 0,
+      "estimated_monthly_waste_zar": 0,
+      "estimated_annual_waste_zar": 0,
+      "onboarding_message": "Hi Andries Ackerman, stop driving empty on the JHB-PE corridor. You're losing about R0/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "medium"
+    },
+    {
+      "id": 194,
+      "name": "Sibusiso Pretorius",
+      "city": "Vereeniging",
+      "region": "Gauteng",
+      "truck_type": "refrigerated",
+      "typical_routes": [
+        "JHB-PE"
+      ],
+      "primary_corridor": "JHB-PE",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 294,
+      "estimated_monthly_waste_zar": 60733,
+      "estimated_annual_waste_zar": 728798,
+      "onboarding_message": "Hi Sibusiso Pretorius, stop driving empty on the JHB-PE corridor. You're losing about R728,798/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "high"
+    },
+    {
+      "id": 195,
+      "name": "Dumi Meyer",
+      "city": "Johannesburg",
+      "region": "Gauteng",
+      "truck_type": "tautliner",
+      "typical_routes": [
+        "JHB-BLOEM"
+      ],
+      "primary_corridor": "JHB-BLOEM",
+      "has_empty_return_problem": false,
+      "estimated_weekly_empty_km": 0,
+      "estimated_monthly_waste_zar": 0,
+      "estimated_annual_waste_zar": 0,
+      "onboarding_message": "Hi Dumi Meyer, stop driving empty on the JHB-BLOEM corridor. You're losing about R0/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "medium"
+    },
+    {
+      "id": 196,
+      "name": "Koos Ackerman",
+      "city": "Pretoria",
+      "region": "Gauteng",
+      "truck_type": "refrigerated",
+      "typical_routes": [
+        "JHB-PE"
+      ],
+      "primary_corridor": "JHB-PE",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 264,
+      "estimated_monthly_waste_zar": 54644,
+      "estimated_annual_waste_zar": 655732,
+      "onboarding_message": "Hi Koos Ackerman, stop driving empty on the JHB-PE corridor. You're losing about R655,732/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "high"
+    },
+    {
+      "id": 197,
+      "name": "Sibusiso Zuma",
+      "city": "East London",
+      "region": "Eastern Cape",
+      "truck_type": "skeletal",
+      "typical_routes": [
+        "JHB-PE"
+      ],
+      "primary_corridor": "JHB-PE",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 264,
+      "estimated_monthly_waste_zar": 54592,
+      "estimated_annual_waste_zar": 655113,
+      "onboarding_message": "Hi Sibusiso Zuma, stop driving empty on the JHB-PE corridor. You're losing about R655,113/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "high"
+    },
+    {
+      "id": 198,
+      "name": "Jabulani Zuma",
+      "city": "Polokwane",
+      "region": "Limpopo",
+      "truck_type": "refrigerated",
+      "typical_routes": [
+        "JHB-BLOEM"
+      ],
+      "primary_corridor": "JHB-BLOEM",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 146,
+      "estimated_monthly_waste_zar": 30186,
+      "estimated_annual_waste_zar": 362232,
+      "onboarding_message": "Hi Jabulani Zuma, stop driving empty on the JHB-BLOEM corridor. You're losing about R362,232/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "medium"
+    },
+    {
+      "id": 199,
+      "name": "Hendrik Steyn",
+      "city": "Vereeniging",
+      "region": "Gauteng",
+      "truck_type": "flatbed",
+      "typical_routes": [
+        "JHB-PE"
+      ],
+      "primary_corridor": "JHB-PE",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 226,
+      "estimated_monthly_waste_zar": 46801,
+      "estimated_annual_waste_zar": 561614,
+      "onboarding_message": "Hi Hendrik Steyn, stop driving empty on the JHB-PE corridor. You're losing about R561,614/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "high"
+    },
+    {
+      "id": 200,
+      "name": "Nkosazana Sisulu",
+      "city": "Rustenburg",
+      "region": "North West",
+      "truck_type": "skeletal",
+      "typical_routes": [
+        "DBN-PE"
+      ],
+      "primary_corridor": "DBN-PE",
+      "has_empty_return_problem": false,
+      "estimated_weekly_empty_km": 0,
+      "estimated_monthly_waste_zar": 0,
+      "estimated_annual_waste_zar": 0,
+      "onboarding_message": "Hi Nkosazana Sisulu, stop driving empty on the DBN-PE corridor. You're losing about R0/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "medium"
+    },
+    {
+      "id": 201,
+      "name": "Dumi Van der Merwe",
+      "city": "Bloemfontein",
+      "region": "Free State",
+      "truck_type": "curtainside",
+      "typical_routes": [
+        "JHB-BLOEM"
+      ],
+      "primary_corridor": "JHB-BLOEM",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 121,
+      "estimated_monthly_waste_zar": 25077,
+      "estimated_annual_waste_zar": 300931,
+      "onboarding_message": "Hi Dumi Van der Merwe, stop driving empty on the JHB-BLOEM corridor. You're losing about R300,931/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "medium"
+    },
+    {
+      "id": 202,
+      "name": "Dumi Naidoo",
+      "city": "Pietermaritzburg",
+      "region": "KwaZulu-Natal",
+      "truck_type": "flatbed",
+      "typical_routes": [
+        "DBN-PE"
+      ],
+      "primary_corridor": "DBN-PE",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 88,
+      "estimated_monthly_waste_zar": 18266,
+      "estimated_annual_waste_zar": 219196,
+      "onboarding_message": "Hi Dumi Naidoo, stop driving empty on the DBN-PE corridor. You're losing about R219,196/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "medium"
+    },
+    {
+      "id": 203,
+      "name": "Mandla Buthelezi",
+      "city": "Bloemfontein",
+      "region": "Free State",
+      "truck_type": "tautliner",
+      "typical_routes": [
+        "CPT-PE"
+      ],
+      "primary_corridor": "CPT-PE",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 286,
+      "estimated_monthly_waste_zar": 59030,
+      "estimated_annual_waste_zar": 708364,
+      "onboarding_message": "Hi Mandla Buthelezi, stop driving empty on the CPT-PE corridor. You're losing about R708,364/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "high"
+    },
+    {
+      "id": 204,
+      "name": "Fanie Zuma",
+      "city": "Newcastle",
+      "region": "KwaZulu-Natal",
+      "truck_type": "flatbed",
+      "typical_routes": [
+        "JHB-BLOEM"
+      ],
+      "primary_corridor": "JHB-BLOEM",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 294,
+      "estimated_monthly_waste_zar": 60784,
+      "estimated_annual_waste_zar": 729417,
+      "onboarding_message": "Hi Fanie Zuma, stop driving empty on the JHB-BLOEM corridor. You're losing about R729,417/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "high"
+    },
+    {
+      "id": 205,
+      "name": "Dumi Ackerman",
+      "city": "Polokwane",
+      "region": "Limpopo",
+      "truck_type": "container",
+      "typical_routes": [
+        "JHB-EL"
+      ],
+      "primary_corridor": "JHB-EL",
+      "has_empty_return_problem": false,
+      "estimated_weekly_empty_km": 0,
+      "estimated_monthly_waste_zar": 0,
+      "estimated_annual_waste_zar": 0,
+      "onboarding_message": "Hi Dumi Ackerman, stop driving empty on the JHB-EL corridor. You're losing about R0/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "medium"
+    },
+    {
+      "id": 206,
+      "name": "Kagiso Coetzee",
+      "city": "Mbombela",
+      "region": "Mpumalanga",
+      "truck_type": "skeletal",
+      "typical_routes": [
+        "JHB-PE"
+      ],
+      "primary_corridor": "JHB-PE",
+      "has_empty_return_problem": false,
+      "estimated_weekly_empty_km": 0,
+      "estimated_monthly_waste_zar": 0,
+      "estimated_annual_waste_zar": 0,
+      "onboarding_message": "Hi Kagiso Coetzee, stop driving empty on the JHB-PE corridor. You're losing about R0/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "medium"
+    },
+    {
+      "id": 207,
+      "name": "Kagiso Coetzee",
+      "city": "East London",
+      "region": "Eastern Cape",
+      "truck_type": "refrigerated",
+      "typical_routes": [
+        "JHB-BLOEM"
+      ],
+      "primary_corridor": "JHB-BLOEM",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 204,
+      "estimated_monthly_waste_zar": 42157,
+      "estimated_annual_waste_zar": 505886,
+      "onboarding_message": "Hi Kagiso Coetzee, stop driving empty on the JHB-BLOEM corridor. You're losing about R505,886/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "high"
+    },
+    {
+      "id": 208,
+      "name": "Nkosazana Tambo",
+      "city": "Polokwane",
+      "region": "Limpopo",
+      "truck_type": "container",
+      "typical_routes": [
+        "DBN-PE"
+      ],
+      "primary_corridor": "DBN-PE",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 313,
+      "estimated_monthly_waste_zar": 64654,
+      "estimated_annual_waste_zar": 775857,
+      "onboarding_message": "Hi Nkosazana Tambo, stop driving empty on the DBN-PE corridor. You're losing about R775,857/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "high"
+    },
+    {
+      "id": 209,
+      "name": "Pieter Dlamini",
+      "city": "Vereeniging",
+      "region": "Gauteng",
+      "truck_type": "refrigerated",
+      "typical_routes": [
+        "DBN-CPT"
+      ],
+      "primary_corridor": "DBN-CPT",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 116,
+      "estimated_monthly_waste_zar": 23942,
+      "estimated_annual_waste_zar": 287308,
+      "onboarding_message": "Hi Pieter Dlamini, stop driving empty on the DBN-CPT corridor. You're losing about R287,308/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "medium"
+    },
+    {
+      "id": 210,
+      "name": "Ayanda Naidoo",
+      "city": "George",
+      "region": "Western Cape",
+      "truck_type": "curtainside",
+      "typical_routes": [
+        "JHB-PE"
+      ],
+      "primary_corridor": "JHB-PE",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 271,
+      "estimated_monthly_waste_zar": 56037,
+      "estimated_annual_waste_zar": 672451,
+      "onboarding_message": "Hi Ayanda Naidoo, stop driving empty on the JHB-PE corridor. You're losing about R672,451/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "high"
+    },
+    {
+      "id": 211,
+      "name": "Nomvula Zuma",
+      "city": "Rustenburg",
+      "region": "North West",
+      "truck_type": "container",
+      "typical_routes": [
+        "JHB-BLOEM"
+      ],
+      "primary_corridor": "JHB-BLOEM",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 178,
+      "estimated_monthly_waste_zar": 36894,
+      "estimated_annual_waste_zar": 442728,
+      "onboarding_message": "Hi Nomvula Zuma, stop driving empty on the JHB-BLOEM corridor. You're losing about R442,728/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "high"
+    },
+    {
+      "id": 212,
+      "name": "Ayanda Dlamini",
+      "city": "Pretoria",
+      "region": "Gauteng",
+      "truck_type": "container",
+      "typical_routes": [
+        "JHB-EL"
+      ],
+      "primary_corridor": "JHB-EL",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 360,
+      "estimated_monthly_waste_zar": 74407,
+      "estimated_annual_waste_zar": 892886,
+      "onboarding_message": "Hi Ayanda Dlamini, stop driving empty on the JHB-EL corridor. You're losing about R892,886/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "high"
+    },
+    {
+      "id": 213,
+      "name": "Barend Zuma",
+      "city": "George",
+      "region": "Western Cape",
+      "truck_type": "flatbed",
+      "typical_routes": [
+        "JHB-BLOEM"
+      ],
+      "primary_corridor": "JHB-BLOEM",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 207,
+      "estimated_monthly_waste_zar": 42879,
+      "estimated_annual_waste_zar": 514555,
+      "onboarding_message": "Hi Barend Zuma, stop driving empty on the JHB-BLOEM corridor. You're losing about R514,555/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "high"
+    },
+    {
+      "id": 214,
+      "name": "Gert Sisulu",
+      "city": "Newcastle",
+      "region": "KwaZulu-Natal",
+      "truck_type": "refrigerated",
+      "typical_routes": [
+        "DBN-CPT"
+      ],
+      "primary_corridor": "DBN-CPT",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 118,
+      "estimated_monthly_waste_zar": 24510,
+      "estimated_annual_waste_zar": 294120,
+      "onboarding_message": "Hi Gert Sisulu, stop driving empty on the DBN-CPT corridor. You're losing about R294,120/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "medium"
+    },
+    {
+      "id": 215,
+      "name": "Lubabalo Ramaphosa",
+      "city": "Polokwane",
+      "region": "Limpopo",
+      "truck_type": "curtainside",
+      "typical_routes": [
+        "JHB-DBN"
+      ],
+      "primary_corridor": "JHB-DBN",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 86,
+      "estimated_monthly_waste_zar": 17750,
+      "estimated_annual_waste_zar": 213004,
+      "onboarding_message": "Hi Lubabalo Ramaphosa, stop driving empty on the JHB-DBN corridor. You're losing about R213,004/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "medium"
+    },
+    {
+      "id": 216,
+      "name": "Mandla Botha",
+      "city": "Vereeniging",
+      "region": "Gauteng",
+      "truck_type": "refrigerated",
+      "typical_routes": [
+        "CPT-PE"
+      ],
+      "primary_corridor": "CPT-PE",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 316,
+      "estimated_monthly_waste_zar": 65325,
+      "estimated_annual_waste_zar": 783907,
+      "onboarding_message": "Hi Mandla Botha, stop driving empty on the CPT-PE corridor. You're losing about R783,907/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "high"
+    },
+    {
+      "id": 217,
+      "name": "Xolani Van der Merwe",
+      "city": "Kimberley",
+      "region": "Northern Cape",
+      "truck_type": "tautliner",
+      "typical_routes": [
+        "JHB-CPT"
+      ],
+      "primary_corridor": "JHB-CPT",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 82,
+      "estimated_monthly_waste_zar": 17079,
+      "estimated_annual_waste_zar": 204955,
+      "onboarding_message": "Hi Xolani Van der Merwe, stop driving empty on the JHB-CPT corridor. You're losing about R204,955/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "medium"
+    },
+    {
+      "id": 218,
+      "name": "Marius Botha",
+      "city": "Durban",
+      "region": "KwaZulu-Natal",
+      "truck_type": "container",
+      "typical_routes": [
+        "JHB-PE"
+      ],
+      "primary_corridor": "JHB-PE",
+      "has_empty_return_problem": false,
+      "estimated_weekly_empty_km": 0,
+      "estimated_monthly_waste_zar": 0,
+      "estimated_annual_waste_zar": 0,
+      "onboarding_message": "Hi Marius Botha, stop driving empty on the JHB-PE corridor. You're losing about R0/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "medium"
+    },
+    {
+      "id": 219,
+      "name": "Lubabalo Botha",
+      "city": "Rustenburg",
+      "region": "North West",
+      "truck_type": "refrigerated",
+      "typical_routes": [
+        "DBN-CPT"
+      ],
+      "primary_corridor": "DBN-CPT",
+      "has_empty_return_problem": false,
+      "estimated_weekly_empty_km": 0,
+      "estimated_monthly_waste_zar": 0,
+      "estimated_annual_waste_zar": 0,
+      "onboarding_message": "Hi Lubabalo Botha, stop driving empty on the DBN-CPT corridor. You're losing about R0/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "medium"
+    },
+    {
+      "id": 220,
+      "name": "Gugu Erasmus",
+      "city": "Durban",
+      "region": "KwaZulu-Natal",
+      "truck_type": "curtainside",
+      "typical_routes": [
+        "JHB-BLOEM"
+      ],
+      "primary_corridor": "JHB-BLOEM",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 354,
+      "estimated_monthly_waste_zar": 73117,
+      "estimated_annual_waste_zar": 877406,
+      "onboarding_message": "Hi Gugu Erasmus, stop driving empty on the JHB-BLOEM corridor. You're losing about R877,406/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "high"
+    },
+    {
+      "id": 221,
+      "name": "Gert Van der Merwe",
+      "city": "Mbombela",
+      "region": "Mpumalanga",
+      "truck_type": "flatbed",
+      "typical_routes": [
+        "JHB-EL"
+      ],
+      "primary_corridor": "JHB-EL",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 171,
+      "estimated_monthly_waste_zar": 35346,
+      "estimated_annual_waste_zar": 424152,
+      "onboarding_message": "Hi Gert Van der Merwe, stop driving empty on the JHB-EL corridor. You're losing about R424,152/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "high"
+    },
+    {
+      "id": 222,
+      "name": "Zuki Buthelezi",
+      "city": "Johannesburg",
+      "region": "Gauteng",
+      "truck_type": "curtainside",
+      "typical_routes": [
+        "JHB-DBN"
+      ],
+      "primary_corridor": "JHB-DBN",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 88,
+      "estimated_monthly_waste_zar": 18163,
+      "estimated_annual_waste_zar": 217958,
+      "onboarding_message": "Hi Zuki Buthelezi, stop driving empty on the JHB-DBN corridor. You're losing about R217,958/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "medium"
+    },
+    {
+      "id": 223,
+      "name": "Palesa Dlamini",
+      "city": "Bloemfontein",
+      "region": "Free State",
+      "truck_type": "tautliner",
+      "typical_routes": [
+        "JHB-CPT"
+      ],
+      "primary_corridor": "JHB-CPT",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 152,
+      "estimated_monthly_waste_zar": 31476,
+      "estimated_annual_waste_zar": 377712,
+      "onboarding_message": "Hi Palesa Dlamini, stop driving empty on the JHB-CPT corridor. You're losing about R377,712/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "medium"
+    },
+    {
+      "id": 224,
+      "name": "Mandla Modise",
+      "city": "Johannesburg",
+      "region": "Gauteng",
+      "truck_type": "flatbed",
+      "typical_routes": [
+        "JHB-EL"
+      ],
+      "primary_corridor": "JHB-EL",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 262,
+      "estimated_monthly_waste_zar": 54128,
+      "estimated_annual_waste_zar": 649540,
+      "onboarding_message": "Hi Mandla Modise, stop driving empty on the JHB-EL corridor. You're losing about R649,540/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "high"
+    },
+    {
+      "id": 225,
+      "name": "Andries Van der Merwe",
+      "city": "Mbombela",
+      "region": "Mpumalanga",
+      "truck_type": "curtainside",
+      "typical_routes": [
+        "JHB-EL"
+      ],
+      "primary_corridor": "JHB-EL",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 347,
+      "estimated_monthly_waste_zar": 71775,
+      "estimated_annual_waste_zar": 861307,
+      "onboarding_message": "Hi Andries Van der Merwe, stop driving empty on the JHB-EL corridor. You're losing about R861,307/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "high"
+    },
+    {
+      "id": 226,
+      "name": "Kagiso Modise",
+      "city": "Cape Town",
+      "region": "Western Cape",
+      "truck_type": "flatbed",
+      "typical_routes": [
+        "CPT-PE"
+      ],
+      "primary_corridor": "CPT-PE",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 283,
+      "estimated_monthly_waste_zar": 58462,
+      "estimated_annual_waste_zar": 701553,
+      "onboarding_message": "Hi Kagiso Modise, stop driving empty on the CPT-PE corridor. You're losing about R701,553/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "high"
+    },
+    {
+      "id": 227,
+      "name": "Nkosazana Pretorius",
+      "city": "Vereeniging",
+      "region": "Gauteng",
+      "truck_type": "container",
+      "typical_routes": [
+        "DBN-CPT"
+      ],
+      "primary_corridor": "DBN-CPT",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 156,
+      "estimated_monthly_waste_zar": 32301,
+      "estimated_annual_waste_zar": 387619,
+      "onboarding_message": "Hi Nkosazana Pretorius, stop driving empty on the DBN-CPT corridor. You're losing about R387,619/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "medium"
+    },
+    {
+      "id": 228,
+      "name": "Johan Dlamini",
+      "city": "Johannesburg",
+      "region": "Gauteng",
+      "truck_type": "flatbed",
+      "typical_routes": [
+        "JHB-DBN"
+      ],
+      "primary_corridor": "JHB-DBN",
+      "has_empty_return_problem": false,
+      "estimated_weekly_empty_km": 0,
+      "estimated_monthly_waste_zar": 0,
+      "estimated_annual_waste_zar": 0,
+      "onboarding_message": "Hi Johan Dlamini, stop driving empty on the JHB-DBN corridor. You're losing about R0/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "medium"
+    },
+    {
+      "id": 229,
+      "name": "Lerato Naidoo",
+      "city": "Durban",
+      "region": "KwaZulu-Natal",
+      "truck_type": "container",
+      "typical_routes": [
+        "JHB-EL"
+      ],
+      "primary_corridor": "JHB-EL",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 298,
+      "estimated_monthly_waste_zar": 61610,
+      "estimated_annual_waste_zar": 739324,
+      "onboarding_message": "Hi Lerato Naidoo, stop driving empty on the JHB-EL corridor. You're losing about R739,324/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "high"
+    },
+    {
+      "id": 230,
+      "name": "Marius Khumalo",
+      "city": "Bloemfontein",
+      "region": "Free State",
+      "truck_type": "tautliner",
+      "typical_routes": [
+        "JHB-CPT"
+      ],
+      "primary_corridor": "JHB-CPT",
+      "has_empty_return_problem": false,
+      "estimated_weekly_empty_km": 0,
+      "estimated_monthly_waste_zar": 0,
+      "estimated_annual_waste_zar": 0,
+      "onboarding_message": "Hi Marius Khumalo, stop driving empty on the JHB-CPT corridor. You're losing about R0/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "medium"
+    },
+    {
+      "id": 231,
+      "name": "Willem Smit",
+      "city": "Cape Town",
+      "region": "Western Cape",
+      "truck_type": "curtainside",
+      "typical_routes": [
+        "DBN-PE"
+      ],
+      "primary_corridor": "DBN-PE",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 254,
+      "estimated_monthly_waste_zar": 52528,
+      "estimated_annual_waste_zar": 630345,
+      "onboarding_message": "Hi Willem Smit, stop driving empty on the DBN-PE corridor. You're losing about R630,345/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "high"
+    },
+    {
+      "id": 232,
+      "name": "Johan Smit",
+      "city": "Mbombela",
+      "region": "Mpumalanga",
+      "truck_type": "tautliner",
+      "typical_routes": [
+        "JHB-PE"
+      ],
+      "primary_corridor": "JHB-PE",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 295,
+      "estimated_monthly_waste_zar": 60939,
+      "estimated_annual_waste_zar": 731275,
+      "onboarding_message": "Hi Johan Smit, stop driving empty on the JHB-PE corridor. You're losing about R731,275/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "high"
+    },
+    {
+      "id": 233,
+      "name": "Mandla Malan",
+      "city": "Pietermaritzburg",
+      "region": "KwaZulu-Natal",
+      "truck_type": "tautliner",
+      "typical_routes": [
+        "JHB-CPT"
+      ],
+      "primary_corridor": "JHB-CPT",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 357,
+      "estimated_monthly_waste_zar": 73736,
+      "estimated_annual_waste_zar": 884836,
+      "onboarding_message": "Hi Mandla Malan, stop driving empty on the JHB-CPT corridor. You're losing about R884,836/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "high"
+    },
+    {
+      "id": 234,
+      "name": "Nomvula Ackerman",
+      "city": "East London",
+      "region": "Eastern Cape",
+      "truck_type": "refrigerated",
+      "typical_routes": [
+        "DBN-CPT"
+      ],
+      "primary_corridor": "DBN-CPT",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 323,
+      "estimated_monthly_waste_zar": 66770,
+      "estimated_annual_waste_zar": 801244,
+      "onboarding_message": "Hi Nomvula Ackerman, stop driving empty on the DBN-CPT corridor. You're losing about R801,244/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "high"
+    },
+    {
+      "id": 235,
+      "name": "Mandla Coetzee",
+      "city": "Kimberley",
+      "region": "Northern Cape",
+      "truck_type": "flatbed",
+      "typical_routes": [
+        "DBN-PE"
+      ],
+      "primary_corridor": "DBN-PE",
+      "has_empty_return_problem": false,
+      "estimated_weekly_empty_km": 0,
+      "estimated_monthly_waste_zar": 0,
+      "estimated_annual_waste_zar": 0,
+      "onboarding_message": "Hi Mandla Coetzee, stop driving empty on the DBN-PE corridor. You're losing about R0/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "medium"
+    },
+    {
+      "id": 236,
+      "name": "Ayanda Ndlovu",
+      "city": "Durban",
+      "region": "KwaZulu-Natal",
+      "truck_type": "container",
+      "typical_routes": [
+        "JHB-PE"
+      ],
+      "primary_corridor": "JHB-PE",
+      "has_empty_return_problem": false,
+      "estimated_weekly_empty_km": 0,
+      "estimated_monthly_waste_zar": 0,
+      "estimated_annual_waste_zar": 0,
+      "onboarding_message": "Hi Ayanda Ndlovu, stop driving empty on the JHB-PE corridor. You're losing about R0/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "medium"
+    },
+    {
+      "id": 237,
+      "name": "Gert De Klerk",
+      "city": "Johannesburg",
+      "region": "Gauteng",
+      "truck_type": "refrigerated",
+      "typical_routes": [
+        "JHB-EL"
+      ],
+      "primary_corridor": "JHB-EL",
+      "has_empty_return_problem": false,
+      "estimated_weekly_empty_km": 0,
+      "estimated_monthly_waste_zar": 0,
+      "estimated_annual_waste_zar": 0,
+      "onboarding_message": "Hi Gert De Klerk, stop driving empty on the JHB-EL corridor. You're losing about R0/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "medium"
+    },
+    {
+      "id": 238,
+      "name": "Themba Meyer",
+      "city": "Pietermaritzburg",
+      "region": "KwaZulu-Natal",
+      "truck_type": "refrigerated",
+      "typical_routes": [
+        "DBN-PE"
+      ],
+      "primary_corridor": "DBN-PE",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 75,
+      "estimated_monthly_waste_zar": 15480,
+      "estimated_annual_waste_zar": 185760,
+      "onboarding_message": "Hi Themba Meyer, stop driving empty on the DBN-PE corridor. You're losing about R185,760/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "medium"
+    },
+    {
+      "id": 239,
+      "name": "Lubabalo Sisulu",
+      "city": "Kimberley",
+      "region": "Northern Cape",
+      "truck_type": "tautliner",
+      "typical_routes": [
+        "JHB-DBN"
+      ],
+      "primary_corridor": "JHB-DBN",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 298,
+      "estimated_monthly_waste_zar": 61662,
+      "estimated_annual_waste_zar": 739944,
+      "onboarding_message": "Hi Lubabalo Sisulu, stop driving empty on the JHB-DBN corridor. You're losing about R739,944/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "high"
+    },
+    {
+      "id": 240,
+      "name": "Marius Meyer",
+      "city": "Bloemfontein",
+      "region": "Free State",
+      "truck_type": "curtainside",
+      "typical_routes": [
+        "JHB-CPT"
+      ],
+      "primary_corridor": "JHB-CPT",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 81,
+      "estimated_monthly_waste_zar": 16770,
+      "estimated_annual_waste_zar": 201240,
+      "onboarding_message": "Hi Marius Meyer, stop driving empty on the JHB-CPT corridor. You're losing about R201,240/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "medium"
+    },
+    {
+      "id": 241,
+      "name": "Zanele Coetzee",
+      "city": "East London",
+      "region": "Eastern Cape",
+      "truck_type": "flatbed",
+      "typical_routes": [
+        "JHB-BLOEM"
+      ],
+      "primary_corridor": "JHB-BLOEM",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 258,
+      "estimated_monthly_waste_zar": 53406,
+      "estimated_annual_waste_zar": 640872,
+      "onboarding_message": "Hi Zanele Coetzee, stop driving empty on the JHB-BLOEM corridor. You're losing about R640,872/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "high"
+    },
+    {
+      "id": 242,
+      "name": "Jabulani Smith",
+      "city": "Johannesburg",
+      "region": "Gauteng",
+      "truck_type": "skeletal",
+      "typical_routes": [
+        "CPT-PE"
+      ],
+      "primary_corridor": "CPT-PE",
+      "has_empty_return_problem": false,
+      "estimated_weekly_empty_km": 0,
+      "estimated_monthly_waste_zar": 0,
+      "estimated_annual_waste_zar": 0,
+      "onboarding_message": "Hi Jabulani Smith, stop driving empty on the CPT-PE corridor. You're losing about R0/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "medium"
+    },
+    {
+      "id": 243,
+      "name": "Koos Mokoena",
+      "city": "Newcastle",
+      "region": "KwaZulu-Natal",
+      "truck_type": "refrigerated",
+      "typical_routes": [
+        "DBN-CPT"
+      ],
+      "primary_corridor": "DBN-CPT",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 111,
+      "estimated_monthly_waste_zar": 23065,
+      "estimated_annual_waste_zar": 276782,
+      "onboarding_message": "Hi Koos Mokoena, stop driving empty on the DBN-CPT corridor. You're losing about R276,782/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "medium"
+    },
+    {
+      "id": 244,
+      "name": "Thabo Botha",
+      "city": "George",
+      "region": "Western Cape",
+      "truck_type": "skeletal",
+      "typical_routes": [
+        "JHB-PE"
+      ],
+      "primary_corridor": "JHB-PE",
+      "has_empty_return_problem": false,
+      "estimated_weekly_empty_km": 0,
+      "estimated_monthly_waste_zar": 0,
+      "estimated_annual_waste_zar": 0,
+      "onboarding_message": "Hi Thabo Botha, stop driving empty on the JHB-PE corridor. You're losing about R0/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "medium"
+    },
+    {
+      "id": 245,
+      "name": "Dumi Ndlovu",
+      "city": "Newcastle",
+      "region": "KwaZulu-Natal",
+      "truck_type": "container",
+      "typical_routes": [
+        "DBN-CPT"
+      ],
+      "primary_corridor": "DBN-CPT",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 296,
+      "estimated_monthly_waste_zar": 61197,
+      "estimated_annual_waste_zar": 734371,
+      "onboarding_message": "Hi Dumi Ndlovu, stop driving empty on the DBN-CPT corridor. You're losing about R734,371/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "high"
+    },
+    {
+      "id": 246,
+      "name": "Lerato Modise",
+      "city": "Johannesburg",
+      "region": "Gauteng",
+      "truck_type": "flatbed",
+      "typical_routes": [
+        "JHB-DBN"
+      ],
+      "primary_corridor": "JHB-DBN",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 93,
+      "estimated_monthly_waste_zar": 19246,
+      "estimated_annual_waste_zar": 230961,
+      "onboarding_message": "Hi Lerato Modise, stop driving empty on the JHB-DBN corridor. You're losing about R230,961/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "medium"
+    },
+    {
+      "id": 247,
+      "name": "Barend Lekota",
+      "city": "Rustenburg",
+      "region": "North West",
+      "truck_type": "flatbed",
+      "typical_routes": [
+        "JHB-PE"
+      ],
+      "primary_corridor": "JHB-PE",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 82,
+      "estimated_monthly_waste_zar": 17028,
+      "estimated_annual_waste_zar": 204336,
+      "onboarding_message": "Hi Barend Lekota, stop driving empty on the JHB-PE corridor. You're losing about R204,336/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "medium"
+    },
+    {
+      "id": 248,
+      "name": "Mandla Modise",
+      "city": "Port Elizabeth",
+      "region": "Eastern Cape",
+      "truck_type": "container",
+      "typical_routes": [
+        "CPT-PE"
+      ],
+      "primary_corridor": "CPT-PE",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 263,
+      "estimated_monthly_waste_zar": 54283,
+      "estimated_annual_waste_zar": 651398,
+      "onboarding_message": "Hi Mandla Modise, stop driving empty on the CPT-PE corridor. You're losing about R651,398/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "high"
+    },
+    {
+      "id": 249,
+      "name": "Xolani Smith",
+      "city": "Port Elizabeth",
+      "region": "Eastern Cape",
+      "truck_type": "tautliner",
+      "typical_routes": [
+        "JHB-PE"
+      ],
+      "primary_corridor": "JHB-PE",
+      "has_empty_return_problem": false,
+      "estimated_weekly_empty_km": 0,
+      "estimated_monthly_waste_zar": 0,
+      "estimated_annual_waste_zar": 0,
+      "onboarding_message": "Hi Xolani Smith, stop driving empty on the JHB-PE corridor. You're losing about R0/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "medium"
+    },
+    {
+      "id": 250,
+      "name": "Willem De Klerk",
+      "city": "George",
+      "region": "Western Cape",
+      "truck_type": "container",
+      "typical_routes": [
+        "JHB-DBN"
+      ],
+      "primary_corridor": "JHB-DBN",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 135,
+      "estimated_monthly_waste_zar": 27915,
+      "estimated_annual_waste_zar": 334987,
+      "onboarding_message": "Hi Willem De Klerk, stop driving empty on the JHB-DBN corridor. You're losing about R334,987/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "medium"
+    },
+    {
+      "id": 251,
+      "name": "Hendrik Maphosa",
+      "city": "Newcastle",
+      "region": "KwaZulu-Natal",
+      "truck_type": "skeletal",
+      "typical_routes": [
+        "DBN-CPT"
+      ],
+      "primary_corridor": "DBN-CPT",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 202,
+      "estimated_monthly_waste_zar": 41796,
+      "estimated_annual_waste_zar": 501552,
+      "onboarding_message": "Hi Hendrik Maphosa, stop driving empty on the DBN-CPT corridor. You're losing about R501,552/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "high"
+    },
+    {
+      "id": 252,
+      "name": "Nkosazana Tambo",
+      "city": "Rustenburg",
+      "region": "North West",
+      "truck_type": "refrigerated",
+      "typical_routes": [
+        "JHB-EL"
+      ],
+      "primary_corridor": "JHB-EL",
+      "has_empty_return_problem": false,
+      "estimated_weekly_empty_km": 0,
+      "estimated_monthly_waste_zar": 0,
+      "estimated_annual_waste_zar": 0,
+      "onboarding_message": "Hi Nkosazana Tambo, stop driving empty on the JHB-EL corridor. You're losing about R0/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "medium"
+    },
+    {
+      "id": 253,
+      "name": "Lindiwe Ackerman",
+      "city": "Kimberley",
+      "region": "Northern Cape",
+      "truck_type": "container",
+      "typical_routes": [
+        "CPT-PE"
+      ],
+      "primary_corridor": "CPT-PE",
+      "has_empty_return_problem": false,
+      "estimated_weekly_empty_km": 0,
+      "estimated_monthly_waste_zar": 0,
+      "estimated_annual_waste_zar": 0,
+      "onboarding_message": "Hi Lindiwe Ackerman, stop driving empty on the CPT-PE corridor. You're losing about R0/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "medium"
+    },
+    {
+      "id": 254,
+      "name": "Dumi Sisulu",
+      "city": "Polokwane",
+      "region": "Limpopo",
+      "truck_type": "container",
+      "typical_routes": [
+        "DBN-PE"
+      ],
+      "primary_corridor": "DBN-PE",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 144,
+      "estimated_monthly_waste_zar": 29876,
+      "estimated_annual_waste_zar": 358516,
+      "onboarding_message": "Hi Dumi Sisulu, stop driving empty on the DBN-PE corridor. You're losing about R358,516/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "medium"
+    },
+    {
+      "id": 255,
+      "name": "Sibusiso Joubert",
+      "city": "Kimberley",
+      "region": "Northern Cape",
+      "truck_type": "curtainside",
+      "typical_routes": [
+        "JHB-DBN"
+      ],
+      "primary_corridor": "JHB-DBN",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 140,
+      "estimated_monthly_waste_zar": 28896,
+      "estimated_annual_waste_zar": 346752,
+      "onboarding_message": "Hi Sibusiso Joubert, stop driving empty on the JHB-DBN corridor. You're losing about R346,752/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "medium"
+    },
+    {
+      "id": 256,
+      "name": "Fanie Mokoena",
+      "city": "Rustenburg",
+      "region": "North West",
+      "truck_type": "curtainside",
+      "typical_routes": [
+        "JHB-CPT"
+      ],
+      "primary_corridor": "JHB-CPT",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 316,
+      "estimated_monthly_waste_zar": 65325,
+      "estimated_annual_waste_zar": 783907,
+      "onboarding_message": "Hi Fanie Mokoena, stop driving empty on the JHB-CPT corridor. You're losing about R783,907/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "high"
+    },
+    {
+      "id": 257,
+      "name": "Hendrik Ackerman",
+      "city": "Newcastle",
+      "region": "KwaZulu-Natal",
+      "truck_type": "flatbed",
+      "typical_routes": [
+        "JHB-DBN"
+      ],
+      "primary_corridor": "JHB-DBN",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 100,
+      "estimated_monthly_waste_zar": 20691,
+      "estimated_annual_waste_zar": 248299,
+      "onboarding_message": "Hi Hendrik Ackerman, stop driving empty on the JHB-DBN corridor. You're losing about R248,299/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "medium"
+    },
+    {
+      "id": 258,
+      "name": "Gugu Ramaphosa",
+      "city": "Kimberley",
+      "region": "Northern Cape",
+      "truck_type": "curtainside",
+      "typical_routes": [
+        "JHB-BLOEM"
+      ],
+      "primary_corridor": "JHB-BLOEM",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 137,
+      "estimated_monthly_waste_zar": 28431,
+      "estimated_annual_waste_zar": 341179,
+      "onboarding_message": "Hi Gugu Ramaphosa, stop driving empty on the JHB-BLOEM corridor. You're losing about R341,179/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "medium"
+    },
+    {
+      "id": 259,
+      "name": "Fanie Joubert",
+      "city": "Cape Town",
+      "region": "Western Cape",
+      "truck_type": "skeletal",
+      "typical_routes": [
+        "DBN-CPT"
+      ],
+      "primary_corridor": "DBN-CPT",
+      "has_empty_return_problem": false,
+      "estimated_weekly_empty_km": 0,
+      "estimated_monthly_waste_zar": 0,
+      "estimated_annual_waste_zar": 0,
+      "onboarding_message": "Hi Fanie Joubert, stop driving empty on the DBN-CPT corridor. You're losing about R0/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "medium"
+    },
+    {
+      "id": 260,
+      "name": "Gugu Van der Merwe",
+      "city": "Newcastle",
+      "region": "KwaZulu-Natal",
+      "truck_type": "container",
+      "typical_routes": [
+        "JHB-PE"
+      ],
+      "primary_corridor": "JHB-PE",
+      "has_empty_return_problem": true,
+      "estimated_weekly_empty_km": 212,
+      "estimated_monthly_waste_zar": 43808,
+      "estimated_annual_waste_zar": 525700,
+      "onboarding_message": "Hi Gugu Van der Merwe, stop driving empty on the JHB-PE corridor. You're losing about R525,700/year in empty return trips. BackhaulAI finds you guaranteed return loads the moment you deliver. Sign up in 2 minutes \u2014 get your first return load matched automatically.",
+      "acquisition_priority": "high"
+    }
+  ]
+}
