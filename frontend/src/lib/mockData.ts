@@ -28,3 +28,19 @@ export const mockNotifications = [
   { id: 'n2', title: 'Trip Completed', message: 'JHB→DBN delivered. Payment of R22,000 released.', time: '5 hours ago', read: false },
   { id: 'n3', title: 'Savings Update', message: 'You saved R48,500 this month by avoiding empty trips.', time: '1 day ago', read: true },
 ];
+
+export const mockSubscriptionPlans = [
+  { id: 'starter', name: 'Starter', price: 3500, desc: 'For small fleet owners and independent operators', features: ['AI return trip matching', 'GPS tracking', 'Browse and book loads', 'Basic load matching', 'Standard support', 'Up to 5 loads/month'], highlighted: false },
+  { id: 'pro', name: 'Pro', price: 9500, desc: 'For growing logistics businesses', features: ['Everything in Starter', 'Unlimited loads', 'Priority load matching', 'AI return trip optimisation', 'Advanced analytics', 'KYC verification', 'Premium support'], highlighted: true },
+  { id: 'business', name: 'Business', price: 20000, desc: 'For established logistics companies', features: ['Everything in Pro', 'Dedicated account manager', 'Custom API integration', 'Fleet-wide analytics', '24/7 priority support', 'Multi-user access', 'SLA guarantees'], highlighted: false },
+  { id: 'enterprise', name: 'Enterprise', price: 35000, desc: 'For large fleet operators', features: ['Everything in Business', 'White-label options', 'Advanced AI tools', 'Demand prediction', 'Pricing intelligence', 'Route optimisation', 'Dedicated infrastructure'], highlighted: false },
+  { id: 'enterprise-plus', name: 'Enterprise+', price: 65000, desc: 'For enterprise logistics groups', features: ['Everything in Enterprise', 'Full white-label', 'Custom AI model training', 'Dedicated support team', '99.9% uptime SLA', 'Priority feature access', 'Executive account management'], highlighted: false },
+];
+
+export const mockUserSubscription = {
+  id: 'sub-1', userId: 'user-1', planId: 'pro', planName: 'Pro',
+  price: 9500, billingCycle: 'monthly' as const,
+  startDate: '2025-01-15', nextBillingDate: '2025-07-15',
+  status: 'active' as const, autoRenew: true,
+  paymentMethod: 'EFT',
+};

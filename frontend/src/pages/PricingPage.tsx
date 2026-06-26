@@ -27,7 +27,6 @@ export function PricingPage() {
   const [copied, setCopied] = useState('');
 
   const handleSelect = (planId: string) => {
-    if (planId === 'free') { setPaymentStatus('confirmed'); return; }
     setSelectedPlan(planId);
     setPaymentStatus('awaiting_payment');
   };
@@ -45,7 +44,7 @@ export function PricingPage() {
     </div>
 
     {/* Plan Cards */}
-    <div className="grid md:grid-cols-4 gap-4">
+    <div className="grid md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-5 gap-4">
       {plans.map(plan => <Card key={plan.id} className={`relative ${plan.highlighted ? 'border-blue-500 ring-2 ring-blue-200' : ''} ${selectedPlan === plan.id ? 'ring-2 ring-blue-500' : ''}`}>
         {plan.highlighted && <div className="absolute -top-3 left-1/2 -translate-x-1/2 bg-blue-600 text-white text-xs font-medium px-3 py-1 rounded-full">Most Popular</div>}
         <CardHeader className="text-center">
@@ -60,8 +59,8 @@ export function PricingPage() {
           <ul className="space-y-2">
             {plan.features.map((f, i) => <li key={i} className="flex items-start gap-2 text-sm text-gray-600"><CheckCircle className="w-4 h-4 text-green-500 mt-0.5 flex-shrink-0" />{f}</li>)}
           </ul>
-          <Button className="w-full mt-4" variant={selectedPlan === plan.id ? 'primary' : plan.id === 'free' ? 'secondary' : 'outline'} onClick={() => handleSelect(plan.id)}>
-            {plan.price === 0 ? 'Get Started Free' : 'Pay via EFT'}
+          <Button className="w-full mt-4" variant={selectedPlan === plan.id ? 'primary' : 'outline'} onClick={() => handleSelect(plan.id)}>
+            Pay via EFT
           </Button>
         </CardContent>
       </Card>)}
@@ -130,26 +129,12 @@ export function PricingPage() {
     )}
 
     {/* Payment Confirmed */}
-    {paymentStatus === 'confirmed' && selectedPlan !== 'enterprise' && (
+    {paymentStatus === 'confirmed' && (
       <Card className="border-2 border-green-400 bg-green-50">
         <CardContent className="p-6 text-center">
           <div className="w-16 h-16 bg-green-100 rounded-full flex items-center justify-center mx-auto mb-4"><CheckCircle className="w-8 h-8 text-green-600" /></div>
-          <h2 className="text-xl font-bold text-gray-900 mb-2">
-            {selectedPlan === 'free' ? 'Free Plan Activated!' : 'Payment Recorded!'}
-          </h2>
-          <p className="text-gray-500">
-            {selectedPlan === 'free' ? 'You can now browse and book available loads.' : 'Your subscription will activate once payment is confirmed. You\'ll receive an email within 24 hours.'}
-          </p>
-        </CardContent>
-      </Card>
-    )}
-
-    {paymentStatus === 'confirmed' && selectedPlan === 'enterprise' && (
-      <Card className="border-2 border-green-400 bg-green-50">
-        <CardContent className="p-6 text-center">
-          <CheckCircle className="w-12 h-12 text-green-500 mx-auto mb-3" />
-          <h2 className="text-xl font-bold text-gray-900">Enterprise Inquiry Submitted</h2>
-          <p className="text-gray-500 mt-2">Our team will contact you within 1-2 business days to set up your custom plan.</p>
+          <h2 className="text-xl font-bold text-gray-900 mb-2">Payment Recorded!</h2>
+          <p className="text-gray-500">Your subscription will activate once payment is confirmed. You'll receive an email within 24 hours.</p>
         </CardContent>
       </Card>
     )}

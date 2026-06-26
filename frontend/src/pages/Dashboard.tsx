@@ -99,7 +99,7 @@ export function Dashboard() {
         <Card><CardHeader><h2 className="font-semibold text-gray-900 flex items-center gap-2"><CreditCard className="w-4 h-4 text-green-500" /> Revenue</h2></CardHeader>
           <CardContent className="space-y-2">
             <div className="flex justify-between text-sm"><span className="text-gray-500">Active Plan</span><Badge status="active" className="bg-blue-100 text-blue-700">Pro</Badge></div>
-            <div className="flex justify-between text-sm"><span className="text-gray-500">Monthly Spend</span><span className="font-medium">{formatCurrency(999)}</span></div>
+            <div className="flex justify-between text-sm"><span className="text-gray-500">Monthly Spend</span><span className="font-medium">{formatCurrency(9500)}</span></div>
             <div className="flex justify-between text-sm"><span className="text-gray-500">Status</span><Badge status="active" className="bg-green-100 text-green-700">Active</Badge></div>
             <div className="border-t pt-2 mt-2">
               <Link to="/pricing"><button className="w-full text-sm bg-blue-50 text-blue-700 rounded-lg py-2 font-medium hover:bg-blue-100 transition-colors">Manage Subscription</button></Link>
